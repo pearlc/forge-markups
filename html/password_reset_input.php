@@ -29,24 +29,25 @@ include('header.php');
 
                     <form class="form-horizontal" role="form">
                         <div class="form-group">
-                            <div class="col-sm-6 col-sm-offset-3">
-                                회원가입시 사용했던 이메일을 입력하시면 초기화 메일을 보내드립니다
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label for="inputEmail" class="col-sm-3 control-label">이메일</label>
+                            <label for="inputNewPassword" class="col-sm-3 control-label">새 비밀번호</label>
                             <div class="col-sm-6">
-                                <input type="email" class="form-control" id="inputEmail" placeholder="example@example.com">
+                                <input type="text" class="form-control" id="inputNewPassword" placeholder="새 비밀번호">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputNewPasswordRepeat" class="col-sm-3 control-label">새 비밀번호 확인</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" id="inputNewPasswordRepeat" placeholder="새 비밀번호 확인">
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-6">
-                                <div class="alert alert-danger alert-short" role="alert">해당 이메일로 가입한 사용자가 없습니다.</div>
+                                <div class="alert alert-danger alert-short" role="alert">올바른 이름이 아닙니다</div>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-6">
-                                <button type="submit" class="btn btn-block btn-warning">비밀번호 초기화 메일 받기</button>
+                                <button type="submit" class="btn btn-block btn-warning">수정</button>
                             </div>
                         </div>
                     </form>
