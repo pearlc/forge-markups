@@ -27,41 +27,55 @@ include('header.php');
 
                 <div class="well no-padding col-md-6 col-md-offset-3">
 
-                    <form method="POST" action="http://general-admin.homestead.com:8000/register" accept-charset="UTF-8" class="form-horizontal"><input name="_token" type="hidden" value="jm5kqNroF12ZlNuVL7hZmpzKN8LFy3suPZ9y70ng">
+                    <form class="form-horizontal" role="form">
                         <div class="form-group">
-                            <label for="inputUsername" class="col-sm-3 control-label">이름</label>
-                            <div class="col-sm-9">
-                                <input class="form-control" id="inputUsername" placeholder="" name="username" type="text">
+                            <label for="username" class="col-sm-3 control-label">이름</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" id="username" placeholder="이름">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="inputEmail" class="col-sm-3 control-label">이메일</label>
-                            <div class="col-sm-9">
-                                <input class="form-control" id="inputEmail" placeholder="example@example.com" name="email" type="email">
+                            <div class="col-sm-6">
+                                <input type="email" class="form-control" id="inputEmail" placeholder="example@example.com">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="inputpassword" class="col-sm-3 control-label">비밀번호</label>
-                            <div class="col-sm-9">
-                                <input class="form-control" id="inputPassword" placeholder="비밀번호" name="password" type="password" value="">
+                            <label for="inputPassword" class="col-sm-3 control-label">비밀번호</label>
+                            <div class="col-sm-6">
+                                <input type="password" class="form-control" id="inputPassword" placeholder="비밀번호">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="inputPasswordConfirm" class="col-sm-3 control-label">비밀번호 확인</label>
-                            <div class="col-sm-9">
-                                <input class="form-control" id="inputPasswordConfirm" placeholder="비밀번호 확인" name="password_confirmation" type="password" value="">
+                            <label for="inputPasswordRepeat" class="col-sm-3 control-label">비밀번호 확인</label>
+                            <div class="col-sm-6">
+                                <input type="password" class="form-control" id="inputPasswordRepeat" placeholder="비밀번호 확인">
                             </div>
                         </div>
+                        <!--                        <div class="form-group">-->
+                        <!--                            <label for="description" class="col-sm-3 control-label">Description</label>-->
+                        <!--                            <div class="col-sm-6">-->
+                        <!--                                <textarea class="form-control" id="description" placeholder="Type your description..."></textarea>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
+                        <!--                        <div class="form-group">-->
+                        <!--                            <div class="col-sm-offset-3 col-sm-6">-->
+                        <!--                                <div class="checkbox">-->
+                        <!--                                    <label>-->
+                        <!--                                        <input type="checkbox"> I agree with <a href="#">terms conditions</a>-->
+                        <!--                                    </label>-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                         <div class="form-group">
-                            <div class="col-sm-offset-3 col-sm-9">
-                                <!-- jquery slideUp() slideDown() 이용해서 노출 -->
-                                <div class="alert alert-danger alert-short" role="alert">올바른 이메일 주소가 아님밍</div>
+                            <div class="col-sm-offset-3 col-sm-6">
+                                <div class="alert alert-danger alert-short" role="alert">올바른 이메일 주소가 아님니다</div>
                                 <div class="alert alert-danger alert-short" role="alert">비밀번호를 입력해주세요</div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="col-sm-offset-3 col-sm-10">
-                                <input class="btn btn-default" type="submit" value="회원가입">
+                            <div class="col-sm-offset-3 col-sm-6">
+                                <button type="submit" class="btn btn-block btn-lg btn-warning">Sign in</button>
                             </div>
                         </div>
                     </form>
