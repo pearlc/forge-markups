@@ -1,5 +1,5 @@
 /**
- * header
+ * header : 한글에 대한 보정
  */
 .nav.navbar-nav {
     font-size:16px;
@@ -40,7 +40,7 @@
     margin-bottom: 10px;
 }
 
-#brand a{
-    text-decoration: none;
-    color: #f1c40f;
+.alert-short {
+    padding-top:6px;
+    padding-bottom:6px;
 }

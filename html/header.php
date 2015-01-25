@@ -89,19 +89,37 @@
         <ul class="nav navbar-nav">
             <li class="nav-all pull-right">
 
-                <a href="profile.html" data-toggle="li">
-                    <span class="text">my-email@gmail.com</span>
-                    <span class="toggle glyphicon glyphicon-align-justify"></span>
-                </a>
+                <?php
+                if (1) {
+                    ?>
 
-                <div class="row subnav-wrapper account-hover-nav">
-                    <div >
-                        <ul class="subnav-full">
-                            <li><a href="index.html">내 정보</a></li>
-                            <li><a href="blog.html">비밀번호 변경</a></li>
-                        </ul>
+                    <a href="login.php" data-toggle="li">
+                        <span class="text">로그인 / 회원가입</span>
+                        <span class="toggle glyphicon glyphicon-user"></span>
+                    </a>
+
+                <?php
+                } else {
+                    ?>
+
+                    <a href="profile.html" data-toggle="li">
+                        <span class="text">my-email@gmail.com</span>
+                        <span class="toggle glyphicon glyphicon-align-justify"></span>
+                    </a>
+
+                    <div class="row subnav-wrapper account-hover-nav">
+                        <div >
+                            <ul class="subnav-full">
+                                <li><a href="index.html">내 정보</a></li>
+                                <li><a href="blog.html">비밀번호 변경</a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
+
+                <?php
+                }
+                ?>
+
             </li>
             <li class="active">
                 <a href="news.html" data-toggle="li">새소식</a>
