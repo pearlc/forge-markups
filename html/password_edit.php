@@ -29,15 +29,21 @@ include('header.php');
 
                     <form class="form-horizontal" role="form">
                         <div class="form-group">
-                            <label for="inputPassword" class="col-sm-3 control-label">비밀번호</label>
+                            <label for="inputPassword" class="col-sm-3 control-label">현재 비밀번호</label>
                             <div class="col-sm-6">
-                                <input type="text" class="form-control" id="inputPassword" placeholder="비밀번호">
+                                <input type="text" class="form-control" id="inputPassword" placeholder="현재 비밀번호">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="inputPasswordRepeat" class="col-sm-3 control-label">비밀번호 확인</label>
+                            <label for="inputNewPassword" class="col-sm-3 control-label">새 비밀번호</label>
                             <div class="col-sm-6">
-                                <input type="text" class="form-control" id="inputPasswordRepeat" placeholder="비밀번호 확인">
+                                <input type="text" class="form-control" id="inputNewPassword" placeholder="새 비밀번호">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputNewPasswordRepeat" class="col-sm-3 control-label">새 비밀번호 확인</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" id="inputNewPasswordRepeat" placeholder="새 비밀번호 확인">
                             </div>
                         </div>
                         <div class="form-group">
