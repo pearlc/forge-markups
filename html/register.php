@@ -75,7 +75,7 @@ include('header.php');
                         </div>
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-6">
-                                <button type="submit" class="btn btn-block btn-lg btn-warning">Sign in</button>
+                                <button type="submit" class="btn btn-block btn-lg btn-warning">회원 가입</button>
                             </div>
                         </div>
                     </form>

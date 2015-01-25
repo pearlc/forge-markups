@@ -51,6 +51,11 @@ include('header.php');
                         </div>
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-6">
+                                <a href="">회원가입</a> / <a href="">비밀번호를 잊었나요?</a>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-offset-3 col-sm-6">
                                 <div class="alert alert-danger alert-short" role="alert">올바른 이메일 주소가 아닙니다</div>
                                 <div class="alert alert-danger alert-short" role="alert">비밀번호를 입력해주세요</div>
                             </div>

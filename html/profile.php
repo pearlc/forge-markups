@@ -49,8 +49,8 @@ include('header.php');
                             <td>
                             </td>
                             <td>
-                                <a href="http://general-admin.homestead.com:8000/user/edit" class="btn btn-warning btn-sm" role="button">내 정보 변경</a>
-                                <a href="http://general-admin.homestead.com:8000/user/edit" class="btn btn-warning btn-sm" role="button">비밀번호 변경</a>
+                                <a href="profile_edit.php" class="btn btn-warning btn-sm" role="button">내 정보 변경</a>
+                                <a href="password_edit.php" class="btn btn-warning btn-sm" role="button">비밀번호 변경</a>
                             </td>
                         </tr>
                         </tbody>
