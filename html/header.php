@@ -48,7 +48,7 @@
     <div class="header-navbar-inner container">
 
         <div id="brand" class="navbar-brand">
-            <a href="index.html" rel="bookmark">
+            <a href="index.php" rel="bookmark">
 
                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
                 <img src="../assets/img/sample/forge-bi-mj.jpg" data-src="../assets/img/sample/forge-bi-mj.jpg" data-src-retina="../assets/img/sample/forge-bi-mj@2x.jpg" width="244" height="56" alt="">
@@ -110,8 +110,8 @@
                     <div class="row subnav-wrapper account-hover-nav">
                         <div >
                             <ul class="subnav-full">
-                                <li><a href="index.html">내 정보</a></li>
-                                <li><a href="blog.html">비밀번호 변경</a></li>
+                                <li><a href="index.php">내 정보</a></li>
+                                <li><a href="index.php">비밀번호 변경</a></li>
                             </ul>
                         </div>
                     </div>
