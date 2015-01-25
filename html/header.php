@@ -51,11 +51,11 @@
             <a href="index.html" rel="bookmark">
 
                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                <img src="../assets/img/logo.png" data-src="../assets/img/logo.png" data-src-retina="../assets/img/logo-retina.png" width="244" height="56" alt="">
+                <img src="../assets/img/sample/forge-bi-mj.jpg" data-src="../assets/img/sample/forge-bi-mj.jpg" data-src-retina="../assets/img/sample/forge-bi-mj@2x.jpg" width="244" height="56" alt="">
 
                 <!--fallback for no javascript browsers-->
                 <noscript>
-                    <img src="../assets/img/logo.png" alt="">
+                    <img src="../assets/img/sample/forge-bi-mj.jpg" alt="">
                 </noscript>
             </a>
         </div>
@@ -96,7 +96,6 @@
 
                 <div class="row subnav-wrapper account-hover-nav">
                     <div >
-                        <strong class="subnav-header">계정</strong>
                         <ul class="subnav-full">
                             <li><a href="index.html">내 정보</a></li>
                             <li><a href="blog.html">비밀번호 변경</a></li>

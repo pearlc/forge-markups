@@ -6,34 +6,34 @@ include('header.php');
 
     <div id="content" class="content section row">
 
-        <div class="col-md-9 col-lg-9">
+        <div class="col-md-10 col-lg-10">
 
             <div class="row">
 
-                <div class="col-md-4 col-lg-4 md-pull-right">
+                <div class="main-news-section col-md-4 col-lg-4 md-pull-right">
 
                     <aside class="widget">
 
-                        <h2 class="widget-title ribbon ribbon-focus"><span>커뮤니티 게시판</span></h2>
+                        <h2 class="widget-title ribbon ribbon-focus"><span>새소식</span></h2>
 
                         <div class="entries row">
 
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-1.jpg" data-src="../assets/img/sample/main-thumbnail-1.jpg" data-src-retina="../assets/img/sample/main-thumbnail-1@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-1.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                        <a href="single.html" rel="bookmark">백투더맥 블로그가 페이스북에 전용 그룹을 마련했습니다</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">3 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -42,19 +42,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-2.jpg" data-src="../assets/img/sample/main-thumbnail-2.jpg" data-src-retina="../assets/img/sample/main-thumbnail-2@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-2.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Duis aute irure dolor in reprehenderit in voluptate velit esse.</a>
+                                        <a href="single.html" rel="bookmark">블로그 푸시 알림을 카테고리별로 설정하거나 완전히 끌 수 있습니다</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">4 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -63,19 +63,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-3.jpg" data-src="../assets/img/sample/main-thumbnail-3.jpg" data-src-retina="../assets/img/sample/main-thumbnail-3@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-3.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
+                                        <a href="single.html" rel="bookmark">2014년 MAC 악성코드의 특징</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">5 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -84,19 +84,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-4.jpg" data-src="../assets/img/sample/main-thumbnail-4.jpg" data-src-retina="../assets/img/sample/main-thumbnail-4@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-4.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                        <a href="single.html" rel="bookmark">OSX 스팟라이트 인덱스 재생성으로 해결할 수 있는 문제와 방법</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">6 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -105,19 +105,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-1.jpg" data-src="../assets/img/sample/main-thumbnail-1.jpg" data-src-retina="../assets/img/sample/main-thumbnail-1@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-1.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Duis aute irure dolor in reprehenderit in voluptate velit esse.</a>
+                                        <a href="single.html" rel="bookmark">구글 보안팀, OS X 제로데이 취약점 발견... 'OS X 10.10.2 버전에서 해결'</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">7 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -126,19 +126,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-3.jpg" data-src="../assets/img/sample/main-thumbnail-3.jpg" data-src-retina="../assets/img/sample/main-thumbnail-3@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-3.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
+                                        <a href="single.html" rel="bookmark">백투더맥 블로그가 페이스북에 전용 그룹을 마련했습니다</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">8 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -147,19 +147,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-2.jpg" data-src="../assets/img/sample/main-thumbnail-2.jpg" data-src-retina="../assets/img/sample/main-thumbnail-2@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-2.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                        <a href="single.html" rel="bookmark">블로그 푸시 알림을 카테고리별로 설정하거나 완전히 끌 수 있습니다</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">9 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -168,19 +168,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-3.jpg" data-src="../assets/img/sample/main-thumbnail-3.jpg" data-src-retina="../assets/img/sample/main-thumbnail-3@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-3.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Duis aute irure dolor in reprehenderit in voluptate velit esse.</a>
+                                        <a href="single.html" rel="bookmark">2014년 MAC 악성코드의 특징</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">10 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -189,19 +189,19 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-4.jpg" data-src="../assets/img/sample/main-thumbnail-4.jpg" data-src-retina="../assets/img/sample/main-thumbnail-4@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
-                                    <img src="http://placehold.it/80x80" alt="">
+                                    <img src="../assets/img/sample/main-thumbnail-4.jpg" alt="">
                                 </noscript>
 
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
+                                        <a href="single.html" rel="bookmark">OSX 스팟라이트 인덱스 재생성으로 해결할 수 있는 문제와 방법</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">11 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -210,7 +210,7 @@ include('header.php');
                             <article class="type-post style-media-list media col-sm-6 col-md-12">
 
                                 <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
+                                <img src="../assets/img/sample/main-thumbnail-2.jpg" data-src="../assets/img/sample/main-thumbnail-2.jpg" data-src-retina="../assets/img/sample/main-thumbnail-2@2x.jpg" width="80" height="80" class="media-object pull-left" alt="">
 
                                 <!--fallback for no javascript browsers-->
                                 <noscript>
@@ -218,10 +218,10 @@ include('header.php');
                                 </noscript>
                                 <div class="media-body">
                                     <h3  class="entry-title">
-                                        <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                        <a href="single.html" rel="bookmark">구글 보안팀, OS X 제로데이 취약점 발견... 'OS X 10.10.2 버전에서 해결'</a>
                                     </h3>
                                     <div class="entry-meta">
-                                        <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">12 hours ago</time></a></span>
+                                        <span><a href="blog.html">어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내..</a></span>
                                     </div>
                                 </div>
 
@@ -230,91 +230,10 @@ include('header.php');
                         </div>
 
                         <div class="more-wrapper">
-                            <a href="blog.html" class="btn btn-warning btn-sm">More</a>
+                            <a href="blog.html" class="btn btn-warning btn-sm">더보기</a>
                         </div>
 
                     </aside>
-
-                    <aside class="widget">
-
-                        <h3 class="widget-title ribbon ribbon-focus"><span>Latest Discussion</span></h3>
-
-                        <ul class="entries">
-
-                            <li class="entry style-recent-list type-post">
-
-                                <span class="comments-count-balloon">900</span>
-                                <a href="single.html" rel="bookmark" class="entry-title">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-
-                            </li>
-
-                            <li class="entry style-recent-list type-post">
-
-                                <span class="comments-count-balloon">860</span>
-                                <a href="single.html" rel="bookmark" class="entry-title">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
-
-                            </li>
-
-                            <li class="entry style-recent-list type-post">
-
-                                <span class="comments-count-balloon">1234</span>
-                                <a href="single.html" rel="bookmark" class="entry-title">In voluptate velit esse cillum dolore eu fugiat nulla pariatur.</a>
-
-                            </li>
-
-                            <li class="entry style-recent-list type-post">
-
-                                <span class="comments-count-balloon">90</span>
-                                <a href="single.html" rel="bookmark" class="entry-title">Duis aute irure dolor in reprehenderit.</a>
-
-                            </li>
-
-                            <li class="entry style-recent-list type-post">
-
-                                <span class="comments-count-balloon">8</span>
-                                <a href="single.html" rel="bookmark" class="entry-title">Utempor incididunt ut labore et dolore magna aliqua.</a>
-
-                            </li>
-
-                        </ul>
-
-                    </aside><!--/.widget-->
-
-                    <aside class="widget">
-
-                        <h3 class="widget-title ribbon ribbon-focus"><span>TAGS</span></h3>
-
-                        <div class="tagcloud">
-                            <a href="#">Some</a>
-                            <a href="#">Tag</a>
-                            <a href="#">Goes</a>
-                            <a href="#">Here</a>
-                            <a href="#">Utempor</a>
-                            <a href="#">Incididunt</a>
-                            <a href="#">Labore</a>
-                            <a href="#">Dolore</a>
-                            <a href="#">Magna</a>
-                            <a href="#">Aliqua</a>
-                            <a href="#">Seddo</a>
-                            <a href="#">Siusmod</a>
-                            <a href="#">Tempor</a>
-                            <a href="#">Incididunt</a>
-                            <a href="#">Ut labore</a>
-                            <a href="#">Et dolore </a>
-                            <a href="#">Magna </a>
-                            <a href="#">Aliqua</a>
-                            <a href="#">Aliqua</a>
-                            <a href="#">Seddo</a>
-                            <a href="#">Siusmod</a>
-                            <a href="#">Tempor</a>
-                            <a href="#">Incididunt</a>
-                            <a href="#">Ut labore</a>
-                            <a href="#">Et dolore </a>
-                            <a href="#">Magna </a>
-                            <a href="#">Aliqua</a>
-                        </div>
-
-                    </aside><!--/.widget-->
 
                 </div><!--/.col-md-4.col-lg-4.md-pull-right-->
 
@@ -330,11 +249,11 @@ include('header.php');
 
                                 <a href="single.html">
                                     <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
+                                    <img src="../assets/img/sample/gta5-wallpaper-normal.jpg" data-src="../assets/img/sample/gta5-wallpaper-normal.jpg" data-src-retina="../assets/img/sample/gta5-wallpaper-retina.jpg" width="680" height="452" alt="">
 
                                     <!--fallback for no javascript browsers-->
                                     <noscript>
-                                        <img src="http://placehold.it/680x452" alt="">
+                                        <img src="../assets/img/sample/gta5-wallpaper-normal.jpg" alt="GTA5 Wall Paper">
                                     </noscript>
                                 </a>
 
@@ -343,17 +262,17 @@ include('header.php');
                             <header class="entry-header">
 
                                 <h3 class="entry-title">
-                                    <a href="single.html" rel="bookmark">The mosts views and discussed posts on this time goes here.</a>
+                                    <a href="single.html" rel="bookmark">차세대 12인치 부품사진 추가 유출... '메탈 재질의 애플로고'</a>
                                 </h3>
                                 <div class="entry-meta">
-                                    <span class="author">by <a href="blog.html">John Doe</a></span>
-                                    <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                    <span class="category">In <a href="blog.html">Technology</a></span>
+                                    <span class="author"><a href="blog.html">Drunken Dancer</a>님에 의해</span>
+                                    <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">2015년 1월 28일</time>에 수정</a></span>
+<!--                                    <span class="category">In <a href="blog.html">Technology</a></span>-->
                                 </div>
 
                             </header>
 
-                            <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet.</p>
+                            <p>어제 12인치 맥북에어 디스플레이 파트를 담은 사진이 뭉텅이로 유출돼 국내외 맥 커뮤니티를 깜짝 놀라게 했는데요, 오늘은 애플로고 부품으로 보이는 사진이 추가로 올라왔습니다. 프랑스 IT매체 'Nowhereelse' 사이트에 애플로고 부품 사진으로 추정되는 사진이 공개됐습니다. 이 매체는 예전에도 애플 부품을 여러차례 유출시킨 전력이 있어 9to5mac이나 맥루머스 같은 미국 매체에서도 자주 인용하는 곳입니다</p>
 
                         </article>
 
@@ -364,7 +283,7 @@ include('header.php');
                                 <a href="single.html">
 
                                     <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
+                                    <img src="../assets/img/sample/gta5-sample2.jpg" data-src="../assets/img/sample/gta5-sample2.jpg" data-src-retina="../assets/img/sample/gta5-sample2.jpg" width="680" height="452" alt="">
 
                                     <!--fallback for no javascript browsers-->
                                     <noscript>
@@ -378,52 +297,17 @@ include('header.php');
                             <header class="entry-header">
 
                                 <h3 class="entry-title">
-                                    <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
+                                    <a href="single.html" rel="bookmark">→ 2014년 MAC 악성코드의 특징</a>
                                 </h3>
                                 <div class="entry-meta">
-                                    <span class="author">by <a href="blog.html">John Doe</a></span>
-                                    <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                    <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                    <span class="author"><a href="blog.html">John Doe</a>님에 의해</span>
+                                    <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">2015년 1월 28일</time>에 수정</a></span>
+<!--                                    <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                                 </div>
 
                             </header>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                        </article>
-
-                        <article class="entry style-large type-post">
-
-                            <figure class="entry-thumbnail hidden-xs">
-
-                                <a href="single.html">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/680x452" alt="">
-                                    </noscript>
-
-                                </a>
-
-                            </figure>
-
-                            <header class="entry-header">
-
-                                <h3 class="entry-title">
-                                    <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
-                                </h3>
-                                <div class="entry-meta">
-                                    <span class="author">by <a href="blog.html">John Doe</a></span>
-                                    <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                    <span class="category">In <a href="blog.html">Entertaintment</a></span>
-                                </div>
-
-                            </header>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>국내 보안업체인 '안랩'이 2014년 맥 플랫폼의 보안 이슈와 동향을 분석한 보고서를 공식 블로그에 개제했습니다. 팔은 안으로 굽는다고 맥용 V3 제품군에 대한 홍보 성격이 가미되어 있지만, 지난 한해 발생한 크고 작은 보안 위협 형태와 악성코드 작동 원리 등을 알 수 있어 맥 사용자라면 한 번은 읽어볼 만합니다. 개인적으로 맥에 백신을 꼭 설치해야 하는가에 대해서는 조금 회의적이지만, 검증된 소프트웨어를 신뢰할 수 있는 곳에서만 내려받아야 한다는 것, 항상 운영체제와 소프트웨어를 최신 상태로 유지해야 한다는 것에 관해서는 절대적으로 공감합니다.</p>
 
                         </article>
 
@@ -435,124 +319,65 @@ include('header.php');
 
         </div><!--/.col-md-8.col-lg-4-->
 
-        <div class="sidebar col-md-3 col-lg-3">
+        <div class="sidebar col-md-2 col-lg-2">
 
             <aside class="widget">
 
-                <h2 class="widget-title ribbon"><span>새소식</span></h2>
+                <h2 class="widget-title ribbon"><span>최근 수정된 문서</span></h2>
 
                 <div class="entries row">
 
                     <article class="type-post style-media-list style-review-list media col-sm-6 col-md-12">
 
-                        <div class="style-review-score">
-                            80
-                        </div>
-
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            <img src="http://placehold.it/80x80" alt="">
-                        </noscript>
-
                         <div class="media-body">
                             <h3  class="entry-title">
-                                <a href="single-full.html" rel="bookmark">xPhone 15s</a>
+                                <a href="single-full.html" rel="bookmark">장비 추천 가이드 - 허리띠</a>
                             </h3>
-                            <p class="small">xPhone Designer: The most secure xPhone Ever?</p>
+                            <p class="small pull-right"><time datetime="2013-07-04T23:26:34+00:00">4시간 전</time></p>
                         </div>
 
                     </article>
 
                     <article class="type-post style-media-list style-review-list media col-sm-6 col-md-12">
 
-                        <div class="style-review-score">
-                            79
-                        </div>
-
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            <img src="http://placehold.it/80x80" alt="">
-                        </noscript>
-
                         <div class="media-body">
                             <h3  class="entry-title">
-                                <a href="single-full.html" rel="bookmark">xPhone 15c.</a>
+                                <a href="single-full.html" rel="bookmark">무림맹 작전 지령서 탈취</a>
                             </h3>
-                            <p class="small">Sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                            <p class="small pull-right"><time datetime="2013-07-04T23:26:34+00:00">13시간 전</time></p>
                         </div>
 
                     </article>
 
                     <article class="type-post style-media-list style-review-list media col-sm-6 col-md-12">
 
-                        <div class="style-review-score">
-                            76
-                        </div>
-
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            <img src="http://placehold.it/80x80" alt="">
-                        </noscript>
-
                         <div class="media-body">
                             <h3  class="entry-title">
-                                <a href="single-full.html" rel="bookmark">Droid Maxxi.</a>
+                                <a href="single-full.html" rel="bookmark">바람의 전장(혼천교)</a>
                             </h3>
-                            <p class="small">Laborum sunt in culpa qui officia deserunt mollit anim id est </p>
+                            <p class="small pull-right"><time datetime="2013-07-04T23:26:34+00:00">20시간 전</time></p>
                         </div>
 
                     </article>
 
                     <article class="type-post style-media-list style-review-list media col-sm-6 col-md-12">
 
-                        <div class="style-review-score">
-                            79
-                        </div>
-
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            <img src="http://placehold.it/80x80" alt="">
-                        </noscript>
-
                         <div class="media-body">
                             <h3  class="entry-title">
-                                <a href="single-full.html" rel="bookmark">NOKIEM Lumpia</a>
+                                <a href="single-full.html" rel="bookmark">혼천교 분타를 함락하라!</a>
                             </h3>
-                            <p class="small">Deserunt laborum sunt in culpa qui officia  mollit anim id est </p>
+                            <p class="small pull-right"><time datetime="2013-07-04T23:26:34+00:00">1일 전</time></p>
                         </div>
 
                     </article>
 
                     <article class="type-post style-media-list style-review-list media col-sm-6 col-md-12">
 
-                        <div class="style-review-score">
-                            74
-                        </div>
-
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            <img src="http://placehold.it/80x80" alt="">
-                        </noscript>
                         <div class="media-body">
                             <h3  class="entry-title">
-                                <a href="single-full.html" rel="bookmark">NFC Dragonfly</a>
+                                <a href="single-full.html" rel="bookmark">등장인물</a>
                             </h3>
-                            <p class="small">Culpa deserunt laborum sunt in qui officia  mollit anim id est </p>
+                            <p class="small pull-right"><time datetime="2013-07-04T23:26:34+00:00">4일 전</time></p>
                         </div>
 
                     </article>
@@ -560,175 +385,26 @@ include('header.php');
                 </div><!--/.entries.colheight-->
 
                 <div class="more-wrapper">
-                    <a href="review.html" class="btn btn-warning btn-sm">Review Archive</a>
+                    <a href="review.html" class="btn btn-warning btn-sm">더보기</a>
                 </div>
 
-            </aside>
-
-            <div class="collapsible-widgets">
-
-                <aside class="widget">
-
-                    <h2 class="widget-title ribbon"><span>Top Smartphone</span></h2>
-
-                    <ul class="entries">
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">xPhone 15s</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 81%;">
-                                    <span>Score:&nbsp;81</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Droid Maxxi</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                    <span>Score:&nbsp;80</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Performance</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                    <span>Score:&nbsp;76</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">NFC Dragonfly</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                    <span>Score:&nbsp;75</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Andromeda Titan</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                                    <span>Score:&nbsp;70</span>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-
-                </aside>
-
-                <aside class="widget">
-
-                    <h2 class="widget-title ribbon"><span>Top Notebook</span></h2>
-
-                    <ul class="entries">
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">xPhone 15s</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 81%;">
-                                    <span>Score:&nbsp;81</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Droid Maxxi</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                    <span>Score:&nbsp;80</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Performance</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                    <span>Score:&nbsp;76</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">NFC Dragonfly</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                                    <span>Score:&nbsp;75</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry style-score-widget">
-                            <div class="score-label entry-title"><a href="single-full.html">Andromeda Titan</a></div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                                    <span>Score:&nbsp;70</span>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-
-                </aside>
-
-            </div>
-
-            <aside class="widget widget_calendar">
-
-                <h3 class="widget-title ribbon"><span>Calendar</span></h3>
-
-                <div id="calendar_wrap">
-                    <table id="wp-calendar">
-                        <caption>July 2013</caption>
-                        <thead>
-                        <tr>
-                            <th scope="col" title="Monday">M</th>
-                            <th scope="col" title="Tuesday">T</th>
-                            <th scope="col" title="Wednesday">W</th>
-                            <th scope="col" title="Thursday">T</th>
-                            <th scope="col" title="Friday">F</th>
-                            <th scope="col" title="Saturday">S</th>
-                            <th scope="col" title="Sunday">S</th>
-                        </tr>
-                        </thead>
-
-                        <tfoot>
-                        <tr>
-                            <td colspan="3" id="prev"><a href="#" title="View posts for March 2013">&laquo; Mar</a></td>
-                            <td class="pad">&nbsp;</td>
-                            <td colspan="3" id="next"><a href="#" title="View posts for March 2013">Aug &raquo;</a></td>
-                        </tr>
-                        </tfoot>
-                        <tbody>
-                        <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
-                        </tr>
-                        <tr>
-                            <td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
-                        </tr>
-                        <tr>
-                            <td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
-                        </tr>
-                        <tr>
-                            <td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
-                        </tr>
-                        <tr>
-                            <td>29</td><td id="today">30</td><td>31</td>
-                            <td class="pad" colspan="4">&nbsp;</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </div>
             </aside>
 
             <aside class="widget">
 
-                <h3 class="widget-title ribbon"><span>Special Coverage</span></h3>
+                <h3 class="widget-title ribbon"><span>현재 트렌드</span></h3>
 
                 <ul class="entries coverageList aligncenter">
-                    <li><a href="blog.html">#xPhone launch event</a></li>
-                    <li><a href="blog.html">#WCDC 2013</a></li>
-                    <li><a href="blog.html">#Nokiem bought by Macrosoft</a></li>
-                    <li><a href="blog.html">#Blueberry JUMP 2013</a></li>
-                    <li><a href="blog.html">#CONFEST 2013</a></li>
-                    <li><a href="blog.html">#Ullamco laboris nisi ut. </a></li>
-                    <li><a href="blog.html">#Eliquip ex ea commodo consequat.</a></li>
-                    <li><a href="blog.html">#Duis aute irure dolor in.</a></li>
-                    <li><a href="blog.html">#Reprehenderit in voluptate</a></li>
-                    <li><a href="blog.html">#Velit esse Ullamco laboris.</a></li>
+                    <li><a href="blog.html">#대도서관의 GTA5</a></li>
+                    <li><a href="blog.html">#온라인 무법자들 1화</a></li>
+                    <li><a href="blog.html">#스토리모드 실황</a></li>
+                    <li><a href="blog.html">#기차막기: 16대 불도..</a></li>
+                    <li><a href="blog.html">#그것이 실제로 일어났습니</a></li>
+                    <li><a href="blog.html">#우리 어른들에게 GTA를..</a></li>
+                    <li><a href="blog.html">#드디어 나왔다..</a></li>
+                    <li><a href="blog.html">#대도서관의 짧고 웃긴 영상</a></li>
+                    <li><a href="blog.html">#덤앤더머를 잡아라!</a></li>
+                    <li><a href="blog.html">#GTA온라인에 어서오세요.</a></li>
                 </ul>
 
             </aside><!--/.widget-->
@@ -737,480 +413,7 @@ include('header.php');
 
     </div><!--/.row.content-->
 
-    <div id="coverageCarousel" class="section bg-primary carousel carousel slide">
-
-        <h2 class="section-title ribbon ribbon-highlight"><span>&nbsp;</span></h2>
-        <div class="carousel-inner">
-            <div class="item active">
-                <h2 class="section-title ribbon ribbon-highlight"><a href="blog.html"> xPhone launch event</a></h2>
-
-                <div class="row entries">
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Review</a></p>
-                            <h3 class="entry-title"><a href="single.html">xPhone first hand: Check out, this might be the right phone for you</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Event Report</a></p>
-                            <h3 class="entry-title"><a href="single.html">The rumor was not a joke, lorem ispsum dolor sit amet constactetiour.</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/680x452" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Event Report</a></p>
-                            <h3 class="entry-title"><a href="single.html">The Event is starting Now. Grab your popcorn, beer and notes.</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Speculation</a></p>
-                            <h3 class="entry-title"><a href="single.html">Rumor: The long awaited update for Retina Display is ready to be annaunced on the next event held by them</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                </div><!--/.row.entries-->
-
-            </div><!--/.item-->
-            <div class="item">
-                <h2 class="section-title ribbon ribbon-highlight"><a href="blog.html"> #WCDC 2013</a></h2>
-
-                <div class="row entries">
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Event Report</a></p>
-                            <h3 class="entry-title"><a href="single.html">The Event is starting Now. Grab your popcorn, beer and notes.</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Speculation</a></p>
-                            <h3 class="entry-title"><a href="single.html">Rumor: The long awaited update for Retina Display is ready to be annaunced on the next event held by them</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Review</a></p>
-                            <h3 class="entry-title"><a href="single.html">xPhone first hand: Check out, this might be the right phone for you</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/480x280" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                    <article class="entry style-grid type-post col-md-6 col-lg-3 colheight-sm-1">
-
-                        <header class="entry-header">
-                            <p class="small"><a href="blog.html">Event Report</a></p>
-                            <h3 class="entry-title"><a href="single.html">The rumor was not a joke, lorem ispsum dolor sit amet constactetiour.</a> </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html"><time datetime="2013-07-04T23:26:34+00:00">20 hours ago</time></a></span>
-                                <span class="entry-author"> by <a href="blog.html">John Doe</a></span>
-                            </div>
-                        </header>
-
-                        <figure class="entry-thumbnail">
-
-                            <a href="single.html" class="overlay overlay-primary"></a>
-
-                            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
-
-                            <!--fallback for no javascript browsers-->
-                            <noscript>
-                                <img src="http://placehold.it/680x452" alt="">
-                            </noscript>
-
-                        </figure>
-
-                    </article>
-
-                </div><!--/.row.entries-->
-
-            </div><!--/.item-->
-        </div><!--/.carousel-inner-->
-
-        <a class="left carousel-control" href="#coverageCarousel" data-slide="prev">
-            <span class="icon icon-angle-left"></span>
-        </a>
-        <a class="right carousel-control" href="#coverageCarousel" data-slide="next">
-            <span class="icon icon-angle-right"></span>
-        </a>
-
-    </div>
-
-    <div class="section content bg-base">
-
-        <h2 class="section-title ribbon"><span>What's you should know</span></h2>
-
-        <div class="entries">
-
-            <div class="row">
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Social Media</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Postman will send alerts to your phone about popular people and their shouts.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Politic</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Better to remain silent and be thought a fool than to speak out and remove all doubt, says Abraham L</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Sports</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">I always work with a goal - and the goal is to improve as a player and a person, says Rafael Nadal</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Entertainment</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Curt Cobain: Wanting to be someone else is a waste of the person you are.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Technology</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Innovation distinguishes between a leader and a follower - Steve Jobs</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Tactical</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Know your enemy and know yourself and you can fight a hundred battles without disaster - Tzun Zu.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Entertainment</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Curt Cobain: Wanting to be someone else is a waste of the person you are.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Technology</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Innovation distinguishes between a leader and a follower - Steve Jobs</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Tactical</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Know your enemy and know yourself and you can fight a hundred battles without disaster - Tzun Zu.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Social Media</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Postman will send alerts to your phone about popular people and their shouts.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Politic</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Better to remain silent and be thought a fool than to speak out and remove all doubt, says Abraham L</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Sports</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">I always work with a goal - and the goal is to improve as a player and a person, says Rafael Nadal</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Politic</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Better to remain silent and be thought a fool than to speak out and remove all doubt, says Abraham L</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Sports</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">I always work with a goal - and the goal is to improve as a player and a person, says Rafael Nadal</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Entertainment</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Curt Cobain: Wanting to be someone else is a waste of the person you are.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Technology</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Innovation distinguishes between a leader and a follower - Steve Jobs</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Tactical</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Know your enemy and know yourself and you can fight a hundred battles without disaster - Tzun Zu.</a>
-                    </h3>
-
-                </article>
-
-                <article class="entry type-post style-thumbnail-text col-sm-6 col-md-2 colheight-sm-1">
-
-                    <div class="entry-meta">
-                        <span class="category"><a href="blog.html">Social Media</a></span>
-                    </div>
-
-                    <h3 class="entry-title">
-                        <a href="single.html" rel="bookmark">Postman will send alerts to your phone about popular people and their shouts.</a>
-                    </h3>
-
-                </article>
-
-            </div><!--row.-->
-
-        </div><!--entries.-->
-
-    </div><!--.section.content.content-secondary-->
-
 </div><!--#main.container-->
 
-<?
+<?php
 include('footer.php');

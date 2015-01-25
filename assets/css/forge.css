@@ -15,11 +15,32 @@
     font-size: 16px;
 }
 
-/** navbar 롤오버시 보이는 panel. 스타일 우선순위를 높이기 위해 최대한 상세히 class 를 기술 */
+/**
+ * navbar 롤오버시 보이는 panel.
+*/
 .nav.navbar-nav li .subnav-wrapper.account-hover-nav {
     width: 180px;
     left: initial;
     float: right;
     right: 0;
     padding: 0 30px;
+}
+
+.nav.navbar-nav li .subnav-wrapper.account-hover-nav .subnav-full {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+/* 메인 새소식 영역 본문 */
+.style-review-list .small {
+    font-style:normal;
+}
+
+.main-news-section article {
+    margin-bottom: 10px;
+}
+
+#brand a{
+    text-decoration: none;
+    color: #f1c40f;
 }
