@@ -39,21 +39,21 @@ include("header.php");
 <figure class="entry-thumbnail">
 
     <!-- to disable lazy loading, remove data-src and data-src-retina -->
-    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
+    <img src="../assets/img/sample/gta5-concept9.jpg" data-src="../assets/img/sample/gta5-concept9.jpg" data-src-retina="../assets/img/sample/gta5-concept9.jpg" width="680" height="452" alt="">
 
     <!--fallback for no javascript browsers-->
     <noscript>
-        <img src="http://placehold.it/680x452" alt="">
+        <img src="../assets/img/sample/gta5-concept9.jpg" alt="">
     </noscript>
 
 </figure>
 
-<div class="entry-meta indented">
-    <span class="entry-date"><time datetime="2013-07-04T23:26:34+00:00">2014-02-03 09:41:23</time></span>
+<!--<div class="entry-meta indented">-->
+<!--    <span class="entry-date"><time datetime="2013-07-04T23:26:34+00:00">2014-02-03 09:41:23</time></span>-->
 <!--    <span class="author">by <a href="blog.html">John Doe</a></span>-->
 <!--    <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
 <!--    <span class="category">In <a href="blog.html">Social Media</a></span>-->
-</div>
+<!--</div>-->
 
 <div class="entry-content indented">
 
