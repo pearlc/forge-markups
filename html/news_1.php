@@ -28,6 +28,10 @@ include("header.php");
         차세대 12인치 맥북에어 부품사진 추가 유출... '메탈 재질의 애플로고'
     </h2>
 
+    <div>
+        <span class="entry-date"><time datetime="2013-07-04T23:26:34+00:00">2014-02-03 09:41:23</time></span>
+    </div>
+
 </header>
 
 <article class="entry style-single type-post">
@@ -82,7 +86,7 @@ include("header.php");
 </p>
 
 <blockquote class="">
-    <p>"워크플로에 '리모트 트리거(Remote Trigger)'를 추가하면 알프레드 리모트 앱으로도 해당 워크플로를 실행할 수 있습니다." 라는겁니다<small> - Alfred Blog</small></p>
+    <p>"워크플로에 '리모트 트리거(Remote Trigger)'를 추가하면 알프레드 리모트 앱으로도 해당 워크플로를 실행할 수 있습니다." 라는겁니다<small>Alfred Blog</small></p>
 </blockquote>
 
 <p>
@@ -1049,5 +1053,5 @@ sample for adding full image
 </div><!--#main.container-->
 
 <?php
-include("header.php");
+include("footer.php");
 ?>
