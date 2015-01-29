@@ -34,19 +34,20 @@ include('header.php');
 
                         <header class="entry-header">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">백투더맥 블로그가 페이스북에 전용 그룹을 마련했습니다</a>
+                                <a href="news_1.php" rel="bookmark">백투더맥 블로그가 페이스북에 전용 그룹을 마련했습니다</a>
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
                         <p>
                             안녕하세요, 백투더맥 블로그 운영자 ONE™ 입니다. 얼마전 출시한 OS X 요세미티와 함께 즐거운 맥라이프 하고들 계신가요? 블로그를 처음 개설할 때 만해도 OS X 10.7 라이언이 최신 버전이었는데, 이후 마운틴 라이언과 매버릭스, 그리고 이번에 나온 요..
-                            <a href="single.html" class="more-link">더보기<i class="icon icon-long-arrow-right"></i></a>
+                            <a href="news_1.php" class="more-link">더보기<i class="icon icon-long-arrow-right"></i></a>
                         </p>
 
                     </div>
@@ -75,9 +76,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -112,9 +114,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -149,9 +152,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -186,9 +190,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -223,9 +228,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -260,9 +266,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -297,9 +304,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>a
 
@@ -334,9 +342,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -371,9 +380,10 @@ include('header.php');
                             </h3>
 
                             <div class="entry-meta">
-                                <span class="author">by <a href="blog.html">John Doe</a></span>
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Entertaintment</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
+<!--                                <span class="author">by <a href="blog.html">John Doe</a></span>-->
+<!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
+<!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
                         </header>
 
@@ -424,8 +434,7 @@ include('header.php');
                                 <a href="single.html" rel="bookmark">장비 추천 가이드 - 허리띠</a>
                             </h3>
                             <div class="entry-meta pull-right">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -438,8 +447,7 @@ include('header.php');
                                 <a href="single.html" rel="bookmark">무림맹 작전 지령서 탈취</a>
                             </h3>
                             <div class="entry-meta pull-right">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -452,8 +460,7 @@ include('header.php');
                                 <a href="single.html" rel="bookmark">바람의 전장(혼천교)</a>
                             </h3>
                             <div class="entry-meta pull-right">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -466,8 +473,7 @@ include('header.php');
                                 <a href="single.html" rel="bookmark">혼천교 분타를 함락하라!</a>
                             </h3>
                             <div class="entry-meta pull-right">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -480,8 +486,7 @@ include('header.php');
                                 <a href="single.html" rel="bookmark">등장인물</a>
                             </h3>
                             <div class="entry-meta pull-right">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -491,107 +496,20 @@ include('header.php');
 
             </aside><!--/.widget-->
 
-            <aside id="reviewCarousel" class="widget carousel slide">
-
-                <h2 class="widget-title ribbon"><span>Latest Review</span></h2>
-
-                <div class="carousel-inner">
-                    <div class="item">
-
-                        <article class="entry style-grid style-review type-post">
-
-                            <header class="entry-header">
-                                <h3 class="entry-title"><a href="single.html">xPhone 5s Review</a> </h3>
-                                <p class="small">Excepteur sint occaecat cupidatat non proident</p>
-                            </header>
-
-                            <div class="style-review-score">
-                                81
-                            </div>
-
-                            <figure class="entry-thumbnail">
-
-                                <a href="single.html" class="overlay overlay-primary"></a>
-
-                                <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="http://placehold.it/480x280" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="" style="opacity: 1;">
-
-                                <!--fallback for no javascript browsers-->
-                                <noscript>
-                                    &lt;img src="http://placehold.it/720x420" alt=""&gt;
-                                </noscript>
-
-                            </figure>
-
-                        </article>
-
-                    </div><!--/.item.active-->
-
-                    <div class="item active">
-
-                        <article class="entry style-grid style-review type-post">
-
-                            <header class="entry-header">
-                                <h3 class="entry-title"><a href="single.html">xPhone 5s Review</a> </h3>
-                                <p class="small">Excepteur sint occaecat cupidatat non proident</p>
-                            </header>
-
-                            <div class="style-review-score">
-                                80
-                            </div>
-
-                            <figure class="entry-thumbnail">
-
-                                <a href="single.html" class="overlay overlay-primary"></a>
-
-                                <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                <img src="http://placehold.it/480x280" data-src="http://placehold.it/480x280" data-src-retina="http://placehold.it/720x420" width="480" height="280" alt="" style="opacity: 1;">
-
-                                <!--fallback for no javascript browsers-->
-                                <noscript>
-                                    &lt;img src="http://placehold.it/720x420" alt=""&gt;
-                                </noscript>
-
-                            </figure>
-
-                        </article>
-
-                    </div><!--/.item.active-->
-
-                </div><!--/.carousel-inner-->
-
-                <a class="left carousel-control" href="#reviewCarousel" data-slide="prev">
-                    <span class="icon icon-angle-left"></span>
-                </a>
-                <a class="right carousel-control" href="#reviewCarousel" data-slide="next">
-                    <span class="icon icon-angle-right"></span>
-                </a>
-
-            </aside><!--/.widget.carousel-->
-
             <aside class="widget">
 
-                <h2 class="widget-title ribbon"><span>최근 작성된 댓글</span></h2>
+                <h2 class="widget-title ribbon"><span>최근 게시판 글</span></h2>
 
                 <div class="entries row">
 
                     <article class="type-post style-media-list media col-sm-6 col-md-12">
 
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="http://placehold.it/80x80" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="" style="opacity: 1;">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            &lt;img src="http://placehold.it/80x80" alt=""&gt;
-                        </noscript>
-
                         <div class="media-body">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                <a href="single.html" rel="bookmark">북미섭) 배치 어제 끝냈습니다 (실4 -> 브2)</a>
                             </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                            <div class="entry-meta pull-right">
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -599,21 +517,12 @@ include('header.php');
 
                     <article class="type-post style-media-list media col-sm-6 col-md-12">
 
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="http://placehold.it/80x80" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="" style="opacity: 1;">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            &lt;img src="http://placehold.it/80x80" alt=""&gt;
-                        </noscript>
-
                         <div class="media-body">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">Duis aute irure dolor in reprehenderit in voluptate velit esse.</a>
+                                <a href="single.html" rel="bookmark">배치후 랭겜 60판째..</a>
                             </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                            <div class="entry-meta pull-right">
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -621,21 +530,12 @@ include('header.php');
 
                     <article class="type-post style-media-list media col-sm-6 col-md-12">
 
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="http://placehold.it/80x80" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="" style="opacity: 1;">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            &lt;img src="http://placehold.it/80x80" alt=""&gt;
-                        </noscript>
-
                         <div class="media-body">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">Excepteur sint occaecat cupidatat non proident.</a>
+                                <a href="single.html" rel="bookmark">어제 실수로 룬과 특성을 반대로 가져갔는데요</a>
                             </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                            <div class="entry-meta pull-right">
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -643,21 +543,12 @@ include('header.php');
 
                     <article class="type-post style-media-list media col-sm-6 col-md-12">
 
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="http://placehold.it/80x80" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="" style="opacity: 1;">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            &lt;img src="http://placehold.it/80x80" alt=""&gt;
-                        </noscript>
-
                         <div class="media-body">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                                <a href="single.html" rel="bookmark">페이커의 고향은 플레 1이가 봅니다.</a>
                             </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                            <div class="entry-meta pull-right">
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
@@ -665,117 +556,17 @@ include('header.php');
 
                     <article class="type-post style-media-list media col-sm-6 col-md-12">
 
-                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                        <img src="http://placehold.it/80x80" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" class="media-object pull-left" alt="" style="opacity: 1;">
-
-                        <!--fallback for no javascript browsers-->
-                        <noscript>
-                            &lt;img src="http://placehold.it/80x80" alt=""&gt;
-                        </noscript>
-
                         <div class="media-body">
                             <h3 class="entry-title">
-                                <a href="single.html" rel="bookmark">Duis aute irure dolor in reprehenderit in voluptate velit esse.</a>
+                                <a href="single.html" rel="bookmark">새 시즌을 맞아서 세일하고 있네요~ </a>
                             </h3>
-                            <div class="entry-meta">
-                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>
-                                <span class="category">In <a href="blog.html">Technology</a></span>
+                            <div class="entry-meta pull-right">
+                                <time datetime="2013-07-04T23:26:34+00:00">2014-01-23 09:20:12</time>
                             </div>
                         </div>
 
                     </article>
 
-                </div>
-
-            </aside><!--/.widget-->
-
-            <aside class="widget">
-
-                <h3 class="widget-title ribbon"><span>Latest Discussion</span></h3>
-
-                <ul class="entries">
-
-                    <li class="entry style-recent-list type-post">
-
-                        <span class="comments-count-balloon">900</span>
-                        <a href="single.html" rel="bookmark" class="entry-title">Ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-
-                    </li>
-
-                    <li class="entry style-recent-list type-post">
-
-                        <span class="comments-count-balloon">860</span>
-                        <a href="single.html" rel="bookmark" class="entry-title">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
-
-                    </li>
-
-                    <li class="entry style-recent-list type-post">
-
-                        <span class="comments-count-balloon">1234</span>
-                        <a href="single.html" rel="bookmark" class="entry-title">In voluptate velit esse cillum dolore eu fugiat nulla pariatur.</a>
-
-                    </li>
-
-                    <li class="entry style-recent-list type-post">
-
-                        <span class="comments-count-balloon">90</span>
-                        <a href="single.html" rel="bookmark" class="entry-title">Duis aute irure dolor in reprehenderit.</a>
-
-                    </li>
-
-                    <li class="entry style-recent-list type-post">
-
-                        <span class="comments-count-balloon">8</span>
-                        <a href="single.html" rel="bookmark" class="entry-title">Utempor incididunt ut labore et dolore magna aliqua.</a>
-
-                    </li>
-
-                </ul>
-
-            </aside><!--/.widget-->
-
-            <aside class="widget">
-
-                <h3 class="widget-title ribbon"><span>Special Coverage</span></h3>
-
-                <ul class="entries coverageList aligncenter">
-                    <li><a href="blog.html">#xPhone launch event</a></li>
-                    <li><a href="blog.html">#WCDC 2013</a></li>
-                    <li><a href="blog.html">#Nokiem bought by Macrosoft</a></li>
-                    <li><a href="blog.html">#Blueberry JUMP 2013</a></li>
-                    <li><a href="blog.html">#CONFEST 2013</a></li>
-                    <li><a href="blog.html">#Ullamco laboris nisi ut. </a></li>
-                    <li><a href="blog.html">#Eliquip ex ea commodo consequat.</a></li>
-                    <li><a href="blog.html">#Duis aute irure dolor in.</a></li>
-                    <li><a href="blog.html">#Reprehenderit in voluptate</a></li>
-                    <li><a href="blog.html">#Velit esse Ullamco laboris.</a></li>
-                </ul>
-
-            </aside><!--/.widget-->
-
-            <aside class="widget">
-
-                <h3 class="widget-title ribbon"><span>Tags</span></h3>
-
-                <div class="tagcloud">
-                    <a href="#">Some</a>
-                    <a href="#">Tag</a>
-                    <a href="#">Goes</a>
-                    <a href="#">Here</a>
-                    <a href="#">Utempor</a>
-                    <a href="#">Incididunt</a>
-                    <a href="#">Labore</a>
-                    <a href="#">Dolore</a>
-                    <a href="#">Magna</a>
-                    <a href="#">Aliqua</a>
-                    <a href="#">Seddo</a>
-                    <a href="#">Siusmod</a>
-                    <a href="#">Tempor</a>
-                    <a href="#">Incididunt</a>
-                    <a href="#">Ut labore</a>
-                    <a href="#">Et dolore </a>
-                    <a href="#">Magna </a>
-                    <a href="#">Aliqua</a>
                 </div>
 
             </aside><!--/.widget-->
