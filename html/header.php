@@ -33,6 +33,10 @@
     <!-- template colorschemes -->
     <link rel="stylesheet" href="../assets/css/default.css">
 
+    <!-- 데이터테이블 -->
+<!--    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="//cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
+
     <!-- forge css -->
     <link rel="stylesheet" href="../assets/css/forge.css">
 

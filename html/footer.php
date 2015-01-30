@@ -20,13 +20,21 @@
 -->
 
 <script src="../assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-
 <script src="../assets/vendor/prettyPhoto/jquery.prettyPhoto.js"></script>
-
-
 <script src="../assets/vendor/jquery.unveil.min.js"></script>
 
+<!-- 데이터테이블 -->
+<script src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+<script src="//cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
 <script src="../assets/js/main.js"></script>
+
+<!-- inline js code (데이터테이블 테스트용) -->
+<script>
+    $(document).ready(function() {
+        $('#example').dataTable();
+    } );
+</script>
 
 </body>
 </html>
