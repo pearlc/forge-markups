@@ -12,7 +12,7 @@ include("header.php");
     <ol class="breadcrumb ribbon-inner">
         <li><a href="#">홈</a></li>
         <li><a href="#">새소식</a></li>
-        <li class="active" title="차세대 12인치 맥북에어 부품사진 추가 유출... '메탈 재질의 애플로고'">차세대 12인치 맥북에어..</li>
+        <li class="active" title="차세대 12인치 맥북에어 부품사진 추가 유출... '메탈 재질의 애플로고'">Lorem ipsum 차세대 12인치 맥북에어..</li>
     </ol>
 </div>
 
@@ -20,12 +20,12 @@ include("header.php");
 
     <div class="page-meta pull-right hidden-xs">
         <a href="#comments">
-            <span class="comments-count-balloon bg-primary">123<em>Comments</em></span>
+            <span class="comments-count-balloon bg-primary">123<em>댓글</em></span>
         </a>
     </div>
 
     <h2 class="page-title">
-        차세대 12인치 맥북에어 부품사진 추가 유출... '메탈 재질의 애플로고'
+        차세대 12인치 맥북에어 부품사진 추가 유출... Lorem ipsum dolor sit '메탈 재질의 애플로고'
     </h2>
 
     <div>
@@ -63,12 +63,16 @@ include("header.php");
 
 <p>
     맥용 인기 런처 앱인 알프레드의 외전격 앱이라 할 수 있는 iOS용 'Alfred Remote' 앱이 오늘 공개됐습니다.
-    </p>
+</p>
 <p>
     OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
-    </p>
+</p>
 <p>
     위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
+</p>
+
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
 <p>
@@ -291,38 +295,44 @@ sample for adding full image
 
 </div><!--/.gallery-->
 
-<h3>Verdict</h3>
+<h3>OS X 요세미티 10.10.2 버전에서 타임머신을 사용할 때</h3>
 <p>
-    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+    OS X 10.10.2에서 타임머신을 활성화한 경우 아이클라우드 드라이브 폴더에 접근하면 아이클라우드 지원 프로그램이 만든 폴더가 표시되고 그 안에 있는 파일을 열람, 복구할 수 있습니다. 타임머신을 통해 파인더를 살펴보려면 응용 프로그램 폴더에 있는 TimeMachine.app을 실행하면 됩니다.
+</p>
+<p>
+    반면에 OS X 10.10.1에서는 아이클라우드 드라이브가 백업 열외 항목으로 취급되기 때문에 폴더에 접근하더라도 내용물이 표시되지 않습니다.
+</p>
+<p>
+    간간히 아이클라우드 폴더에서 파일을 날려먹는 통에 몇일 동안 밤샘한 작업이 물거품되거나 소중한 사진이 유실될 때가 있죠. 사용자 개별적으로 타임머신을 구축해야 하긴 하지만 파일을 소실했을 때 최소한의 대책이 생겼다는 점에서 반가운 기능입니다.
 </p>
 
-<h3>Score</h3>
-<ul class="entries">
-    <li class="entry style-score-widget">
-        <div class="score-value">81</div>
-        <div class="score-label entry-title"><a href="single-full.html">Design</a></div>
-        <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 81%;">
-            </div>
-        </div>
-    </li>
-    <li class="entry style-score-widget">
-        <div class="score-value">80</div>
-        <div class="score-label entry-title"><a href="single-full.html">Functionality</a></div>
-        <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            </div>
-        </div>
-    </li>
-    <li class="entry style-score-widget">
-        <div class="score-value">76</div>
-        <div class="score-label entry-title"><a href="single-full.html">Performance</a></div>
-        <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-            </div>
-        </div>
-    </li>
-</ul>
+<!--<h3>Score</h3>-->
+<!--<ul class="entries">-->
+<!--    <li class="entry style-score-widget">-->
+<!--        <div class="score-value">81</div>-->
+<!--        <div class="score-label entry-title"><a href="single-full.html">Design</a></div>-->
+<!--        <div class="progress">-->
+<!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 81%;">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </li>-->
+<!--    <li class="entry style-score-widget">-->
+<!--        <div class="score-value">80</div>-->
+<!--        <div class="score-label entry-title"><a href="single-full.html">Functionality</a></div>-->
+<!--        <div class="progress">-->
+<!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </li>-->
+<!--    <li class="entry style-score-widget">-->
+<!--        <div class="score-value">76</div>-->
+<!--        <div class="score-label entry-title"><a href="single-full.html">Performance</a></div>-->
+<!--        <div class="progress">-->
+<!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </li>-->
+<!--</ul>-->
 
 
 </div>
@@ -331,48 +341,42 @@ sample for adding full image
 
 <div class="after-entry indented">
 
-    <hr>
+<!--    <hr>-->
 
 
-    <aside class="widget post-tags">
-        <i class="icon-tags"></i> Tags:
-        <a href="#"> Some</a>
-        <a href="#"> Goes</a>
-        <a href="#"> Here</a>
-        <a href="#"> For</a>
-        <a href="#"> Sure</a>
-    </aside>
+<!--    <aside class="widget post-tags">-->
+<!--        <i class="icon-tags"></i> Tags:-->
+<!--        <a href="#"> Some</a>-->
+<!--        <a href="#"> Goes</a>-->
+<!--        <a href="#"> Here</a>-->
+<!--        <a href="#"> For</a>-->
+<!--        <a href="#"> Sure</a>-->
+<!--    </aside>-->
 
-    <hr>
+<!--    <hr>-->
 
-    <aside class="widget widget-author media">
+<!--    <aside class="widget widget-author media">-->
 
-        <figure class="entry-author-avatar media-object avatar pull-left">
-            <!-- to disable lazy loading, remove data-src and data-src-retina -->
-            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" class="img-circle" alt="">
-
-            <!--fallback for no javascript browsers-->
-            <noscript>
-                <img src="http://placehold.it/230x230" alt="">
-            </noscript>
-        </figure>
-
-        <div class="media-body">
-            <h4 class="entry-author-name">By <a href="blog.html">John Doe</a></h4>
-
-            <p>
-                Deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
-            </p>
-
-        </div>
-
-    </aside>
-
+<!--        <figure class="entry-author-avatar media-object avatar pull-left">-->
+<!--            <!-- to disable lazy loading, remove data-src and data-src-retina -->
+<!--            <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" class="img-circle" alt="">-->
+<!--            <!--fallback for no javascript browsers-->
+<!--            <noscript>-->
+<!--                <img src="http://placehold.it/230x230" alt="">-->
+<!--            </noscript>-->
+<!--        </figure>-->
+<!--        <div class="media-body">-->
+<!--            <h4 class="entry-author-name">By <a href="blog.html">John Doe</a></h4>-->
+<!--            <p>-->
+<!--                Deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.-->
+<!--            </p>-->
+<!--        </div>-->
+<!--    </aside>-->
     <hr>
 
     <aside class="widget">
 
-        <h4 class="widget-title">Related Posts</h4>
+        <h4 class="widget-title">관련글(뉴스 혹은 위키 문서)</h4>
 
         <div class="entries row">
 
@@ -388,7 +392,7 @@ sample for adding full image
                     </noscript>
                 </figure>
 
-                <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis.</a> </h3>
+                <h3 class="entry-title"><a href="single.html">백투더맥 블로그가 페이스북에 전용 그룹을 마련했습니다</a> </h3>
 
 
             </article>
@@ -405,7 +409,7 @@ sample for adding full image
                     </noscript>
                 </figure>
 
-                <h3 class="entry-title"><a href="single.html">Oomnis iste natus error sit voluptatem.</a> </h3>
+                <h3 class="entry-title"><a href="single.html">12인치 신형 맥북에어 부품사진 유출!... 12인치 레티나 디스플레이 채택</a> </h3>
 
 
             </article>
@@ -422,7 +426,7 @@ sample for adding full image
                     </noscript>
                 </figure>
 
-                <h3 class="entry-title"><a href="single.html">Temporibus autem quibusdam.</a> </h3>
+                <h3 class="entry-title"><a href="single.html">차세대 12인치 맥북에어 부품사진 추가 유출... '메탈 재질의 애플로고'</a> </h3>
 
 
             </article>
@@ -439,7 +443,7 @@ sample for adding full image
                     </noscript>
                 </figure>
 
-                <h3 class="entry-title"><a href="single.html">Siste natus error sit voluptatem.</a> </h3>
+                <h3 class="entry-title"><a href="single.html">12인치 신형 맥북에어 부품사진 유출</a> </h3>
 
 
             </article>
@@ -450,31 +454,31 @@ sample for adding full image
 
     <hr>
 
-    <aside class="widget">
-        Share:
-        <a href="#" class="" onclick="window.open(
-								'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
-								'facebook-share-dialog', 
-								'width=626,height=436'); 
-								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-facebook icon-light"></i></span></a>
-        <a href="#" class="" onclick="window.open(
-								'http://twitter.com/home?status='+encodeURIComponent(location.href), 
-								'facebook-share-dialog', 
-								'width=626,height=436'); 
-								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-twitter icon-light"></i></span></a>
-        <a href="#" class="" onclick="window.open(
-								'https://plus.google.com/share?url='+encodeURIComponent(location.href), 
-								'facebook-share-dialog', 
-								'width=500,height=436'); 
-								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-google-plus icon-light"></i></span></a>
-        <a href="#" class="" onclick="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-pinterest icon-light"></i></span></a>
-    </aside>
+<!--    <aside class="widget">-->
+<!--        Share:-->
+<!--        <a href="#" class="" onclick="window.open(-->
+<!--								'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), -->
+<!--								'facebook-share-dialog', -->
+<!--								'width=626,height=436'); -->
+<!--								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-facebook icon-light"></i></span></a>-->
+<!--        <a href="#" class="" onclick="window.open(-->
+<!--								'http://twitter.com/home?status='+encodeURIComponent(location.href), -->
+<!--								'facebook-share-dialog', -->
+<!--								'width=626,height=436'); -->
+<!--								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-twitter icon-light"></i></span></a>-->
+<!--        <a href="#" class="" onclick="window.open(-->
+<!--								'https://plus.google.com/share?url='+encodeURIComponent(location.href), -->
+<!--								'facebook-share-dialog', -->
+<!--								'width=500,height=436'); -->
+<!--								return false;"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-google-plus icon-light"></i></span></a>-->
+<!--        <a href="#" class="" onclick="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-pinterest icon-light"></i></span></a>-->
+<!--    </aside>-->
 
 </div>
 
 <div id="comments" class="comments-area indented">
 
-    <h4 class="comments-title">Comments</h4>
+    <h4 class="comments-title">댓글</h4>
 
     <ol class="media-list comment-list">
         <li class="media comment">
@@ -487,7 +491,12 @@ sample for adding full image
                     <cite class="fn"><a href="#" rel="external nofollow" class="url">Mr John Doe</a></cite>
                     <span class="comment-meta commentmetadata">on <a href="#">July 8, 2013 at 7:46 am</a></span>
                 </h4>
-                <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                <p>
+                    타임머신을 안쓰는 저에겐ㅠㅠ
+                    </p>
+                <p>
+                    서버에서 복구가 가능했으면 좋겠네요...
+                </p>
 
             </div>
 
@@ -504,7 +513,7 @@ sample for adding full image
                             <span class="comment-meta commentmetadata"> on <a href="#">July 8, 2013 at 7:46 am</a></span>
                         </h4>
 
-                        <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                        <p>ONE 님 말씀대로 타입캡슐은 비싸고, 또한 안정성도 떨어지는 경우가 종종 있다고 하더군요. 타입캡슐용 USB 3.0 외장하드나 무선환경을 구축하고 싶으시다면 NAS를 추천드립니다. NAS는 당연히 시놀 추천이구요. 얼마전에 214Play 구매했는데 매우 만족스럽게 쓰고 있습니다.</p>
 
                     </div>
 
@@ -521,7 +530,7 @@ sample for adding full image
                             <span class="comment-meta commentmetadata"> on <a href="#">July 8, 2013 at 7:46 am</a></span>
                         </h4>
 
-                        <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                        <p>10.10.2로 어제 오후에 업글하고 오늘 아침에 타임머신에 들어가서 Icloud Drive를 확인해 봤는데 iBooks 폴더만 나오네요......무슨 설정을 해야하는건지 모르겠네요....ㅠㅠ</p>
 
                     </div>
 
@@ -537,7 +546,7 @@ sample for adding full image
                                     <span class="comment-meta commentmetadata">on <a href="#">July 8, 2013 at 7:46 am</a></span>
                                 </h4>
 
-                                <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                                <p>MacBook Pro (Retina, Mid 2012) 업데이트 설치 후 이 글 보고 있습니다. 다행히 별문제 없네요...</p>
                             </div>
 
                         </li>
@@ -553,7 +562,7 @@ sample for adding full image
                                     <span class="comment-meta commentmetadata">on <a href="#">July 8, 2013 at 7:46 am</a></span>
                                 </h4>
 
-                                <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                                <p>HDD는 파일을 기록할때 그냥 덮어쓰기가 되지만 SSD는 데이터를 재기록할때 덮어쓰기가 안 되어 삭제 - 기록의 과정을 거쳐야 하는데 이것이 시간이 걸리니까 파일이 삭제될때 미리 메타데이터만 지우는 것이 아니라 짬날때 파일이 있었던 공간을 청소해주는것을 말하는걸로 알고있습니다...HDD는 파일을 기록할때 그냥 덮어쓰기가 되지만 SSD는 데이터를 재기록할때 덮어쓰기가 안 되어 삭제 - 기록의 과정을 거쳐야 하는데 이것이 시간이 걸리니까 파일이 삭제될때 미리 메타데이터만 지우는 것이 아니라 짬날때 파일이 있었던 공간을 청소해주는것을 말하는걸로 알고있습니다...</p>
                             </div>
 
                         </li>
@@ -575,7 +584,7 @@ sample for adding full image
                     <cite class="fn"><a href="#" rel="external nofollow" class="url">Mr John Doe</a></cite>
                     <span class="comment-meta commentmetadata">on <a href="#">July 8, 2013 at 7:46 am</a></span>
                 </h4>
-                <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                <p>트림활성화 툴은 어떻게 끄는건가요?? ^^;;</p>
 
             </div>
 
@@ -590,7 +599,10 @@ sample for adding full image
                     <cite class="fn"><a href="#" rel="external nofollow" class="url">Mr John Doe</a></cite>
                     <span class="comment-meta commentmetadata">on <a href="#">July 8, 2013 at 7:46 am</a></span>
                 </h4>
-                <p>Hi, this is a comment. enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                <p>해결하긴 했는데요. 근본적인 문제 해결인지는 잘 모르겠습니다.</p>
+                <p>일단, 원님의 이전글 중에 Scroll Reverse 앱에 대한 글이 있습니다. 이앱을 실행하고 Scroll Reverse의 설정들을 다시 해보고.. 다시 해보니.. 정상으로 돌아왔네요.(Scroll Reverse 종료 이후에도..)</p>
+                <p>Scroll Reverse와의 충돌인지.. 아님.. 제가 잘못 사용한 것인지 모르겠지만, 이게 문제였던 것 같습니다.</p>
+                <p>혹시, 저와 비슷한 증상 보이시는 분들은 이앱이 설치되었는지.. 확인해보심이 좋을 것 같네요.</p>
 
             </div>
 
@@ -599,32 +611,32 @@ sample for adding full image
 
     <div id="respond" class="comments-respond">
 
-        <h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
+        <h3 id="reply-title" class="comment-reply-title">댓글 남기기</h3>
 
         <form action="#" class="form-inline row" method="post" id="commentform">
 
             <div class="form-group col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <label class="sr-only" for="inputName">Name</label>
-                <input class="form-control" id="inputName" name="author" type="text" value="" aria-required="true" placeholder="Your Name">
+                <label class="sr-only" for="inputName">이름</label>
+                <input class="form-control" id="inputName" name="author" type="text" value="" aria-required="true" placeholder="*이름">
             </div>
 
             <div class="form-group col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <label class="sr-only" for="inputEmail">Email</label>
-                <input class="form-control" id="inputEmail" name="author" type="text" value="" aria-required="true" placeholder="Your Email">
+                <label class="sr-only" for="inputEmail">이메일</label>
+                <input class="form-control" id="inputEmail" name="author" type="text" value="" aria-required="true" placeholder="이메일">
             </div>
 
             <div class="form-group col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <label class="sr-only" for="inputWebsite">Website</label>
-                <input class="form-control" id="inputWebsite" name="author" type="text" value="" aria-required="true" placeholder="Your Website">
+                <label class="sr-only" for="inputWebsite">웹사이트</label>
+                <input class="form-control" id="inputWebsite" name="author" type="text" value="" aria-required="true" placeholder="웹사이트">
             </div>
 
             <div class="form-group col-lg-12 col-md-12 col-sm-12">
-                <label class="sr-only" for="inputMessage">Message</label>
-                <textarea class="form-control" id="inputMessage" name="message" rows="8" aria-required="true" placeholder="Your Message"></textarea>
+                <label class="sr-only" for="inputMessage">내용</label>
+                <textarea class="form-control" id="inputMessage" name="message" rows="8" aria-required="true" placeholder="*내용"></textarea>
             </div>
 
             <div class="form-group col-lg-12 col-md-12 col-sm-12">
-                <button class="btn btn-primary" name="submit" id="submit">Send Message</button>
+                <button class="btn btn-primary" name="submit" id="submit">댓글 작성하기</button>
             </div>
 
         </form>
