@@ -212,6 +212,7 @@ include("header.php");
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
+
                     <p>
                         OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
@@ -248,6 +249,185 @@ include("header.php");
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
                     </p>
+
+
+                    <div class="gallery bg-page flushed-left">
+
+                        <!-- <h4 class="gallery-title">Gallery</h4> -->
+
+                        <div class="row">
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 2" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 3" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 4" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 5" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 6" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 7" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 8" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 9" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 10" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 10" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="http://placehold.it/460x460" title="Image 2" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/80x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+
+                        </div><!--/.row-->
+
+                    </div><!--/.gallery-->
 
                     <p>
                         글쎼요. 일단 듣기에는 좋아 보이는데, 이게 정말 킬러 기능이 될지 아니면 곁다리 기능이 될지는 조금 더 사용해 봐야 알 것 같습니다. 입맛에 꼭 맞는 워크플로를 만들려면 애플스크립트 작성 능력도 어느 정도 뒷받침돼야 한다는 전제조건이 있어 마냥 쉽지만은 않을 듯합니다.
