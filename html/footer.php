@@ -27,13 +27,25 @@
 <script src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
 <script src="//cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
 
+<script src="../assets/vendor/fluidvids/fluidvids.min.js"></script>
+
 <script src="../assets/js/main.js"></script>
 
 <!-- inline js code (데이터테이블 테스트용) -->
 <script>
+
     $(document).ready(function() {
+
+        // data tables
         $('#example').dataTable();
-    } );
+
+        // fluid vids
+        fluidvids.init({
+            selector: ['iframe'],
+            players: ['www.youtube.com', 'player.vimeo.com']
+        });
+    });
+
 </script>
 
 </body>
