@@ -37,6 +37,34 @@
     $(document).ready(function() {
 
         // data tables
+        $.extend($.fn.dataTable.defaults, {
+            "paging":   true,
+            "ordering": true,
+            "info":     true,
+            "lengthMenu": [[10, 20, 50, -1], [10, 20, 50, "All"]],
+            language: {
+                processing:     "처리중...",
+                search:         "검색:",
+                lengthMenu:     "페이지당 줄수 _MENU_",
+                info:           "_START_ - _END_ / _TOTAL_",
+                infoEmpty:      "0 - 0 / 0",
+                infoFiltered:   "(총 _MAX_ 개)",
+                infoPostFix:    "",
+                loadingRecords: "읽는중...",
+                zeroRecords:    "검색 결과가 없습니다",
+                emptyTable:     "데이터가 없습니다",
+                paginate: {
+                    first:      "&lt;&lt;",
+                    previous:   "&lt;",
+                    next:       "&gt;",
+                    last:       "&gt;&gt;"
+                },
+                aria: {
+                    sortAscending:  ": 오름차순 정렬",
+                    sortDescending: ": 내림차순 정렬"
+                }
+            }
+        });
         $('#example').dataTable();
 
         // fluid vids

@@ -44,3 +44,8 @@
     padding-top:6px;
     padding-bottom:6px;
 }
+
+/* data tables 에서 검색창 ui가 우측으로 넘어가는 버그 수정용 (임시방편) : 원인 찾아서 고친후에 이 줄은 없앨것 */
+.dataTables_wrapper .dataTables_filter input {
+    /*width:initial;*/
+}
