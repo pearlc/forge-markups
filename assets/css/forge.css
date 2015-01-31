@@ -49,3 +49,82 @@
 .dataTables_wrapper .dataTables_filter input {
     /*width:initial;*/
 }
+
+.entry-content a {
+    color:#CD5C5C;
+}
+
+.entry-content h3,
+.entry-content p {
+    overflow: hidden;
+}
+
+div.pulled-left {
+    float: left;
+    width: 250px;
+    margin-left: 30px;
+    margin-right: 35px;
+    text-align: left;
+}
+
+table.head-summary {
+
+}
+
+table.head-summary thead th {
+    background: #eef1f1;
+    font-weight: bold;
+}
+
+table.head-summary tbody th {
+    background: #eef1f1;
+}
+
+table.head-summary tbody td {
+    background: #f7f5f5;
+}
+
+
+
+/**************************************************************************
+ * 								RESPONSIVE
+ *************************************************************************/
+@media (max-width: 520px) {
+
+}
+
+@media (max-width: 768px) {
+    div.pulled-left {
+        float: none;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: left;
+    }
+}
+
+@media (min-width: 769px) {
+    div.pulled-left {
+        margin-left: -145px;
+    }
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (min-width: 1540px) {
+
+}
