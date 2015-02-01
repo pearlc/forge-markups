@@ -50,7 +50,8 @@
     /*width:initial;*/
 }
 
-.entry-content a {
+.entry-content a,
+.footnotes-area a {
     color:#CD5C5C;
 }
 
@@ -84,7 +85,29 @@ table.head-summary tbody td {
     background: #f7f5f5;
 }
 
+.footnotes-area {
+    padding-top:20px;
+}
 
+.footnotes-area .footnotes-title {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 15px;
+}
+.footnotes-area > .footnote-list {
+    border-top: 2px solid #d0d0d0;
+    padding-top: 25px;
+}
+.footnotes-area .footnote {
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.entry-content table img {
+    margin-bottom: 0;
+}
 
 /**************************************************************************
  * 								RESPONSIVE
@@ -106,6 +129,9 @@ table.head-summary tbody td {
 @media (min-width: 769px) {
     div.pulled-left {
         margin-left: -145px;
+    }
+    .footnotes-area > .footnote-list {
+        margin-left: -87px;
     }
 }
 

@@ -204,17 +204,20 @@ include("header.php");
                         Trevor Philips is a character in the <a href="#">Grand Theft Auto</a> series, appearing as one of the three main <a href="#">protagonists</a> along with <a href="#">Michael De Santa</a> and <a href="#">Franklin Clinton</a> in <a href="#">Grand Theft Auto V</a>, and as a main character in <a href="#">Grand Theft Auto Online</a>.
                     </p>
                     <p>
-                        트레버 필립스는 <a href="#">Grand Theft Auto V</a>와 <a href="#">Grand Theft Auto Online</a> 에서 등장하는 <a href="#">마이클 드 산타</a>, <a href="#">프렝클린 클린턴</a>과 함께 세명의 메인 <a href="#">주인공</a>중 한명이다.
+                        트레버 필립스<sup id="footnote-1"><a href="#">[1]</a></sup>는 <a href="#">Grand Theft Auto V</a>와 <a href="#">Grand Theft Auto Online</a> 에서 등장하는 <a href="#">마이클 드 산타</a>, <a href="#">프렝클린 클린턴</a>과 함께 세명의 메인 <a href="#">주인공</a>중 한명이다.
                     </p>
                     <p>
-                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
+                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
+                    <p>
+                        <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg">
+                    </p>
 
                     <p>
-                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
+                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데<sup id="footnote-3"><a href="#">[3]</a></sup>, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
                     <p>
                         위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
@@ -239,7 +242,11 @@ include("header.php");
                         기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
                     </p>
                     <p>
-                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
+                        <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg">
+
+                    </p>
+                    <p>
+                        OS X 요세미티<sup id="footnote-2"><a href="#">[2]</a></sup> 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
 
                     <blockquote class="">
@@ -275,11 +282,11 @@ include("header.php");
                                 <a href="http://placehold.it/460x460" title="Image 2" class="thumbnail" data-rel="prettyPhoto[gallery]">
 
                                     <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/160x80" data-src-retina="http://placehold.it/320x160" width="160" height="80" alt="">
 
                                     <!--fallback for no javascript browsers-->
                                     <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
+                                        <img src="http://placehold.it/160x80" alt="">
                                     </noscript>
 
                                 </a>
@@ -436,6 +443,110 @@ include("header.php");
                     <p>
                         보다 자세한 사용기는 조금 더 알프레드 리모트를 사용해 보고 올리도록 하겠습니다. 미리 써보실 분은 아이튠즈에서 4.99달러에 구매할 수 있고, 공식 블로그에서 앱에 관한 이모저모를 볼 수 있습니다. 참고로 사용자 맞춤 워크플로를 사용하려면 알프레드 메인 프로그램에 파워팩을 적용해야 합니다.
                     </p>
+                    <table id="example1" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                        <thead>
+                        <tr>
+                            <th>이름</th>
+                            <th>아이콘</th>
+                            <th>공격력</th>
+                            <th>무게</th>
+                            <th>가격</th>
+                            <th>업그레이드</th>
+                            <th>퍽</th>
+                            <th><b>아이템 아이디</b></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td><a href="/wiki/Alessandra%27s_Dagger" title="알레산드라의 단도">알레산드라의 단도</a></td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_sw_010106_col1_5_1_1.png"</td>
+                            <td>5</td>
+                            <td>1
+                            </td><td>10
+                            </td><td>N/A
+                            </td><td> -
+                            </td><td>00043E1E</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Blade_of_Woe_(Skyrim)" title="Blade of Woe (Skyrim)">우에의 검</a></td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_gt_020127_col5_5_1_1.png"</td>
+                            <td>12</td>
+                            <td>7
+                            </td><td>880
+                            </td><td>필요없음
+                            </td><td><a href="/wiki/Smithing_(Skyrim)" title="Smithing (Skyrim)">강철</a>
+                            </td><td>0009CCDC</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Blade_of_Sacrifice" title="Blade of Sacrifice">희성의 검</a></td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_ta_110003_col5_5_1_1.png"</td>
+                            <td>10
+                            </td><td>4
+                            </td><td>144
+                            </td><td><a href="/wiki/Ebony_Ingot_(Skyrim)" title="Ebony Ingot (Skyrim)">에보니 주괴</a>
+                            </td><td>없음
+                            </td><td>00079B1D</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Bloodthorn" title="Bloodthorn">피의 가시</a>
+                            </td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_dg_120031_col3_5_1_1.png"</td>
+                            <td>8
+                            </td><td>2.5
+                            </td><td>183
+                            </td><td><a href="/wiki/Steel_Ingot_(Skyrim)" title="Steel Ingot (Skyrim)">강철 주괴</a>
+                            </td><td><a href="/wiki/Smithing_(Skyrim)" title="Smithing (Skyrim)">강철</a>
+                            </td><td>000A4DCE</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Borvir%27s_Dagger" title="Borvir's Dagger">보르비르의 단도</a>
+                            </td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_ab_030106_col2_5_1_1.png"</td>
+                            <td>8
+                            </td><td>4
+                            </td><td>18
+                            </td><td><a href="/wiki/Refined_Moonstone" title="Refined Moonstone">문스톤 제련</a>
+                            </td><td><a href="/wiki/Smithing_(Skyrim)#Elven_Smithing" title="Smithing (Skyrim)">엘븐</a>
+                            </td><td>000ECD54</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Daedric_Dagger_(Skyrim)" title="Daedric Dagger (Skyrim)">데어드릭 단도</a>
+                            </td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_st_060021_col2_5_1_1.png"</td>
+                            <td>11
+                            </td><td>6
+                            </td><td>500
+                            </td><td><a href="/wiki/Ebony_Ingot_(Skyrim)" title="Ebony Ingot (Skyrim)">에보니 주괴</a>
+                            </td><td><a href="/wiki/Daedric_Smithing" title="Daedric Smithing" class="mw-redirect">대어드릭</a>
+                            </td><td>000139B6</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Dragonbone_Dagger" title="Dragonbone Dagger">드래곤본 단도</a> <sup><a href="/wiki/The_Elder_Scrolls_V:_Dawnguard" title="The Elder Scrolls V: Dawnguard">DG</a></sup>
+                            </td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_sw_010106_col1_5_1_1.png"</td>
+                            <td>12
+                            </td><td>6.5
+                            </td><td>600
+                            </td><td><a href="/wiki/Dragon_Bone" title="Dragon Bone">드래곤본</a>
+                            </td><td><a href="/wiki/Smithing_(Skyrim)#Dragon_Armor" title="Smithing (Skyrim)">드래곤 스미싱</a>
+                            </td><td>xx014FCB</span>
+                            </td></tr>
+                        <tr>
+                            <td><a href="/wiki/Dragon_Priest_Dagger" title="Dragon Priest Dagger">드래곤 성직자 단도</a>
+                            </td>
+                            <td><img src="http://static.plaync.co.kr/powerbook/bns/ui_resource/weapon/weapon_dg_120031_col3_5_1_1.png"</td>
+                            <td>6
+                            </td><td>5
+                            </td><td>9
+                            </td><td>N/A
+                            </td><td> -
+                            </td><td>0001C1FE</span>
+                            </td></tr>
+                        </tbody>
+                        <tfoot>
+
+                        </tfoot>
+                    </table>
 
                     <!--
                     sample for adding full image
@@ -465,7 +576,7 @@ include("header.php");
                         여기엔 데이터 테이블이 들어갑니다. 잘 들어가야 합니다
                     </p>
                     <p>
-                    <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                    <table id="example2" class="table table-striped table-bordered" cellspacing="0" width="100%">
                         <thead>
                         <tr>
                             <th>Name</th>
@@ -1119,6 +1230,24 @@ include("header.php");
                 <!--        <a href="#" class="" onclick="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><span class="icon-stack"><i class="icon-sign-blank icon-stack-base"></i><i class="icon-pinterest icon-light"></i></span></a>-->
                 <!--    </aside>-->
 
+            </div>
+
+            <div id="footnote" class="footnotes-area indented">
+                <h4 class="footnotes-title">주석</h4>
+                <ol class="footnote-list">
+                    <li class="footnote">
+                        <span class="footnote-backlink"><b><a href="#footnote-1">^</a></b></span>
+                        Additional work by <a href="#">Rockstar NYC</a>, <a href="#">Rockstar San Diego</a>, Rockstar Leeds, Rockstar Toronto, Rockstar New England, Rockstar London and Rockstar Lincoln.
+                    </li>
+                    <li class="footnote">
+                        <span class="footnote-backlink"><b><a href="#footnote-2">^</a></b></span>
+                        단 기본으로 세팅(?)되어있는건 아니며 ADS 카메라로 전환하려면 PS4판 기준으로 L2을 누른 상태로 R스틱을 누르면 ADS카메라가 된다. 즉, 3인칭에서 조준 확대를 1인칭에서 ADS로 구현하는 것. PC판 GTA의 FPS 모드들은 이런게 존재하지 않았다. 무기줌이 존재하는 GTA 4도 일반적인 FPS카메라 MOD는 <a href="#">폴아웃 3</a>마냥 단순히 카메라만 조금 땡기는 정도였다.
+                    </li>
+                    <li class="footnote">
+                        <span class="footnote-backlink"><b><a href="#footnote-3">^</a></b></span>
+                        콘솔판 한정. 예외로 일본은 10월 10일에 <a href="#">콘솔판</a>이 발매되었다.
+                    </li>
+                </ol>
             </div>
 
             <div id="comments" class="comments-area indented">

@@ -65,7 +65,7 @@
                 }
             }
         });
-        $('#example').dataTable();
+        $('#example1, #example2').dataTable();
 
         // fluid vids
         fluidvids.init({
