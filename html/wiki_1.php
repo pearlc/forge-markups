@@ -134,7 +134,13 @@ include("header.php");
                             </tr>
                             <tr>
                                 <th><span title="공통의 윤리의식, 언어, 문화, 혈통, 역사와 같은 것들을 공유하는 집단">국적</span>:</th>
-                                <td><a href="http://en.wikipedia.org/wiki/Canada" class="image image-thumbnail link-internal" title="wp:Canada"><img src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" alt="Flag of Canada" class="thumbborder lzyPlcHld  lzyTrns lzyLoaded" data-image-key="Flag_of_Canada.svg" data-image-name="Flag of Canada.svg" data-src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" width="20" height="10" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript>&lt;img src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" 	 alt="Flag of Canada"  	class="thumbborder " 	 	data-image-key="Flag_of_Canada.svg" 	data-image-name="Flag of Canada.svg" 	 	 width="20"  	 height="10"  	 	 	 	&gt;</noscript></a> <a href="/Canada" title="Canada">캐나다</a></td>
+                                <td>
+                                    <a href="http://en.wikipedia.org/wiki/Canada" class="image image-thumbnail link-internal" title="wp:Canada">
+                                        <img src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" alt="Flag of Canada" class="thumbborder lzyPlcHld  lzyTrns lzyLoaded" data-image-key="Flag_of_Canada.svg" data-image-name="Flag of Canada.svg" data-src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" width="20" height="10" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}">
+                                        <noscript>&lt;img src="http://img2.wikia.nocookie.net/__cb20121216112545/gtawiki/images/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" 	 alt="Flag of Canada"  	class="thumbborder " 	 	data-image-key="Flag_of_Canada.svg" 	data-image-name="Flag of Canada.svg" 	 	 width="20"  	 height="10"  	 	 	 	&gt;</noscript>
+                                    </a>
+                                    <a href="/Canada" title="Canada">캐나다</a>
+                                </td>
                             </tr>
                             <tr>
                                 <th>가족:</th>
@@ -252,6 +258,63 @@ include("header.php");
                     <blockquote class="">
                         <p>"워크플로에 '리모트 트리거(Remote Trigger)'를 추가하면 알프레드 리모트 앱으로도 해당 워크플로를 실행할 수 있습니다." 라는겁니다<small>Alfred Blog</small></p>
                     </blockquote>
+
+                    <p>
+                        기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
+                    </p>
+
+                    <div class="gallery bg-page flushed-left">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12">
+                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="160" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/120x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-12.col-sm-12-->
+                        </div>
+                    </div>
+
+                    <p>
+                        기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
+                    </p>
+
+                    <div class="gallery bg-page flushed-left">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6">
+                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="120" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/120x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+                            <div class="col-xs-12 col-sm-6">
+                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
+
+                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="120" height="80" alt="">
+
+                                    <!--fallback for no javascript browsers-->
+                                    <noscript>
+                                        <img src="http://placehold.it/120x80" alt="">
+                                    </noscript>
+
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+                        </div>
+                    </div>
 
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
