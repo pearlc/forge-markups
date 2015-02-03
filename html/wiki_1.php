@@ -212,6 +212,30 @@ include("header.php");
                     <p>
                         트레버 필립스<sup id="footnote-1"><a href="#">[1]</a></sup>는 <a href="#">Grand Theft Auto V</a>와 <a href="#">Grand Theft Auto Online</a> 에서 등장하는 <a href="#">마이클 드 산타</a>, <a href="#">프렝클린 클린턴</a>과 함께 세명의 메인 <a href="#">주인공</a>중 한명이다.
                     </p>
+
+                    <p>
+                        더블 이미지의 모습입니다 1
+                    </p>
+
+                    <div class="gallery" >
+
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6">
+                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="My Name Is Title 1">
+                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
+                                    <span class="description text-center"><strong>Blog Item Image:</strong> Fantastic audience in concert</span>
+                                </a>
+
+                            </div><!--/.col-xs-2.col-sm-2-->
+                            <div class="col-xs-12 col-sm-6">
+                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="My 2">
+                                    <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
+                        </div>
+
+                    </div>
+
                     <p>
                         OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
@@ -266,58 +290,29 @@ include("header.php");
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
                     </p>
 
-                    <div class="gallery bg-page flushed-left">
+                    <p>
+                        더블 이미지의 모습입니다 2
+                    </p>
+
+                    <div class="gallery" >
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12">
-                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="160" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/120x80" alt="">
-                                    </noscript>
-
+                            <div class="col-xs-12 col-sm-6">
+                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="My Name Is Title 1">
+                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
                                 </a>
-                            </div><!--/.col-xs-12.col-sm-12-->
+                            </div><!--/.col-xs-2.col-sm-2-->
+                            <div class="col-xs-12 col-sm-6">
+                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="My 2">
+                                    <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
+                                </a>
+                            </div><!--/.col-xs-2.col-sm-2-->
                         </div>
+
                     </div>
 
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
                     </p>
-
-                    <div class="gallery bg-page flushed-left">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6">
-                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="120" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/120x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-                            <div class="col-xs-12 col-sm-6">
-                                <a href="http://placehold.it/120x80" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/120x80" data-src-retina="http://placehold.it/240x160" width="120" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/120x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-                        </div>
-                    </div>
 
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
@@ -458,34 +453,6 @@ include("header.php");
 
                             <div class="col-xs-3 col-sm-2">
                                 <a href="http://placehold.it/460x460" title="Image 10" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 10" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 2" class="thumbnail" data-rel="prettyPhoto[gallery]">
 
                                     <!-- to disable lazy loading, remove data-src and data-src-retina -->
                                     <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
