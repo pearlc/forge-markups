@@ -109,6 +109,57 @@ table.head-summary tbody td {
     margin-bottom: 0;
 }
 
+
+/**
+ *위키 본문 내 이미지들 요 클래스 이름은 지시어로 아좋은것 같음. double-image 등등 네이밍 규칙 만들것
+ *
+ *
+ * image-double : 이미지 두개 나란히
+ * image-full : 이미지 한개 크게
+ * image-left-half : 절반크기 왼쪽 이미지
+ * image-right-half : 절반크기 오른쪽 이미지
+ *
+ *
+ */
+.context-image {
+    margin-bottom:20px;
+}
+.context-image .row {
+    overflow: hidden;
+}
+.context-image img {
+    margin-bottom: 0;
+}
+
+.context-image .thumbnail {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+
+    margin-bottom: 0;
+}
+
+.context-image-double-first,
+.context-image-double-second {
+    /*padding: 0 2px;*/
+}
+
+.caption {
+    border-left: 2px solid #ccc;
+    margin: 5px 0 0 0;
+    padding: 2px 0 0 5px;
+    font-family: Dotum;
+    font-size: 12px;
+    color: #666;
+    line-height: 18px;
+}
+
+
 /**************************************************************************
  * 								RESPONSIVE
  *************************************************************************/
@@ -124,6 +175,11 @@ table.head-summary tbody td {
         margin-left: auto;
         text-align: left;
     }
+
+    div.context-image-double-first,
+    div.context-image-double-second {
+        width: 100%;
+    }
 }
 
 @media (min-width: 769px) {
@@ -132,6 +188,11 @@ table.head-summary tbody td {
     }
     .footnotes-area > .footnote-list {
         margin-left: -87px;
+    }
+
+    div.context-image-double-first,
+    div.context-image-double-second {
+        width: 50%;
     }
 }
 

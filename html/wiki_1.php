@@ -217,24 +217,57 @@ include("header.php");
                         더블 이미지의 모습입니다 1
                     </p>
 
-                    <div class="gallery" >
-
+                    <div class="context-image context-image-double">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-6">
-                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="My Name Is Title 1">
+                            <div class="col-xs-12 col-sm-6 context-image-double-first">
+                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
                                     <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
-                                    <span class="description text-center"><strong>Blog Item Image:</strong> Fantastic audience in concert</span>
                                 </a>
+                                <div class="caption">
+                                    <span>
+                                        게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다. 게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다.
+                                    </span>
+                                </div>
 
-                            </div><!--/.col-xs-2.col-sm-2-->
-                            <div class="col-xs-12 col-sm-6">
-                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="My 2">
+                            </div><!--/.context-image-double-first-->
+                            <div class="col-xs-12 col-sm-6 context-image-double-second">
+                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
                                     <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
                                 </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
+                                <div class="caption">
+                                    <span>
+                                        세명의 주인공이 폼을 잡고 있는 모습
+                                    </span>
+                                </div>
+                            </div><!--/.context-image-double-second-->
                         </div>
-
                     </div>
+
+                    <p>
+                        hi
+                    </p>
+
+<!--                    <div class="gallery" >-->
+<!---->
+<!--                        <div class="row">-->
+<!--                            <div class="col-xs-12 col-sm-6">-->
+<!--                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">-->
+<!--                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">-->
+<!--                                </a>-->
+<!--                                <div class="caption">-->
+<!--                                    <span>여기는 사진 설명이 들어갑니다 (옵션)</span>-->
+<!--                                </div>-->
+<!---->
+<!---->
+<!--                            </div>
+<!--                            <div class="col-xs-12 col-sm-6">-->
+<!--                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">-->
+<!--                                    <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">-->
+<!--                                </a>-->
+<!--                            </div>
+<!--                        </div>-->
+<!---->
+<!--                    </div>-->
 
                     <p>
                         OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
@@ -256,6 +289,32 @@ include("header.php");
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
+
+                    <div class="context-image context-image-double">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6 context-image-double-first">
+                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
+                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
+                                </a>
+                                <div class="caption">
+                                    <span>
+                                        게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다. 게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다.
+                                    </span>
+                                </div>
+
+                            </div><!--/.context-image-double-first-->
+                            <div class="col-xs-12 col-sm-6 context-image-double-second">
+                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
+                                    <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
+                                </a>
+                                <div class="caption">
+                                    <span>
+                                        세명의 주인공이 폼을 잡고 있는 모습
+                                    </span>
+                                </div>
+                            </div><!--/.context-image-double-second-->
+                        </div>
+                    </div>
 
                     <p>
                         <iframe src="//player.vimeo.com/video/117934677?color=ea6a47&title=0&byline=0&portrait=0&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
