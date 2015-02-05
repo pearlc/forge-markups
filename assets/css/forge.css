@@ -141,8 +141,9 @@ table.head-summary tbody td {
     margin-bottom: 0;
 }
 
-.context-image-double-first,
-.context-image-double-second {
+.context-image-double-first-item,
+.context-image-double-second-item,
+.context-image-full-item {
     margin-bottom: 20px;
 }
 
@@ -185,15 +186,15 @@ table.head-summary tbody td {
 }
 
 @media (max-width: 991px) {
-    div.context-image-double-first,
-    div.context-image-double-second {
+    div.context-image-double-first-item,
+    div.context-image-double-second-item {
         width: 100%;
     }
 }
 
 @media (min-width: 992px) {
-    div.context-image-double-first,
-    div.context-image-double-second {
+    div.context-image-double-first-item,
+    div.context-image-double-second-item {
         width: 50%;
     }
 }
