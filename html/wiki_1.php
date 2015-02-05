@@ -243,10 +243,6 @@ include("header.php");
                         </div>
                     </div>
 
-                    <p>
-                        hi
-                    </p>
-
 <!--                    <div class="gallery" >-->
 <!---->
 <!--                        <div class="row">-->
