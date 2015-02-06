@@ -5,7 +5,7 @@ include('header.php');
 <div id="main" class="container">
     <div id="content" class="content section row">
 
-        <div class="col-md-8 bg-base col-lg-8 col-xl-9">
+        <div class="col-md-9 bg-base col-lg-9 col-xl-10">
 
             <div class="ribbon ribbon-highlight">
                 <ol class="breadcrumb ribbon-inner">
@@ -419,7 +419,7 @@ include('header.php');
 
         </div><!--/.col-md-8.col-lg-8.col-xl-9-->
 
-        <div class="sidebar col-md-4 col-lg-4 col-xl-3">
+        <div class="sidebar col-md-3 col-lg-3 col-xl-2">
 
             <aside class="widget">
 
