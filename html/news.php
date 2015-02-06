@@ -309,7 +309,7 @@ include('header.php');
 <!--                                <span class="entry-date"><a href="blog.html">on <time datetime="2013-07-04T23:26:34+00:00">September 20 2013</time></a></span>-->
 <!--                                <span class="category">In <a href="blog.html">Entertaintment</a></span>-->
                             </div>
-                        </header>a
+                        </header>
 
                         <p>
                             국내 보안업체인 '안랩'이 2014년 맥 플랫폼의 보안 이슈와 동향을 분석한 보고서를 공식 블로그에 개제했습니다. 팔은 안으로 굽는다고 맥용 V3 제품군에 대한 홍보 성격이 가미되어 있지만, 지난 한해 발생한 크고 작은 보안 위협 형태와 악성코드 작동 원리..
