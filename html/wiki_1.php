@@ -218,9 +218,10 @@ include("header.php");
                         더블 이미지의 모습입니다 1
                     </p>
 
-                    <div class="context-image context-image-double">
+                    <div class="context-image context-double-image">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-6 context-image-double-first-item">
+                            <div class="col-xs-12 col-sm-6 context-double-image-first-item">
+
                                 <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
                                     <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
                                 </a>
@@ -230,8 +231,8 @@ include("header.php");
                                     </span>
                                 </div>
 
-                            </div><!--/.context-image-double-first-item-->
-                            <div class="col-xs-12 col-sm-6 context-image-double-second-item">
+                            </div><!--/.context-double-image-first-item-->
+                            <div class="col-xs-12 col-sm-6 context-double-image-second-item">
                                 <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
                                     <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
                                 </a>
@@ -240,7 +241,7 @@ include("header.php");
                                         세명의 주인공이 폼을 잡고 있는 모습
                                     </span>
                                 </div>
-                            </div><!--/.context-image-double-second-item-->
+                            </div><!--/.context-double-image-second-item-->
                         </div>
                     </div>
 
@@ -248,15 +249,15 @@ include("header.php");
                         OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
 
-                    <div class="context-image context-image-full">
+                    <div class="context-image context-single-image">
                         <div class="row">
-                            <div class="col-md-12 context-image-full-item">
+                            <div class="col-md-12 context-single-image-item">
                                 <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
                                     <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
                                 </a>
                                 <div class="caption">
                                     <span>
-                                        세명의 주인공이 폼을 잡고 있는 모습
+                                        3. 세명의 주인공이 폼을 잡고 있는 모습
                                     </span>
                                 </div>
                             </div>
@@ -267,10 +268,10 @@ include("header.php");
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
 
-
-                    <div class="context-image context-image-full">
+                    <div class="context-image context-single-image">
                         <div class="row">
-                            <div class="col-md-12 context-image-full-item">
+                            <div class="col-md-12 context-single-image-item">
+
                                 <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
                                     <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
                                 </a>
@@ -279,33 +280,58 @@ include("header.php");
                                         게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다. 게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다. 게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다.
                                     </span>
                                 </div>
+
                             </div>
                         </div>
                     </div>
 
-
                     <p>
-                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
+                        1. OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
 
-                    <p>
-                        <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg">
-                    </p>
+                    <div class="context-image context-single-image">
+                        <div class="row">
+                            <div class="col-md-12 context-single-image-item">
 
-                    <p>
-                        OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데<sup id="footnote-3"><a href="#">[3]</a></sup>, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
-                    </p>
+                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
+                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
+                                </a>
+                                <div class="caption">
+                                    <span>
+                                        게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다. 게임중 프랭클린은 개를 키우며 같이 미션을 수행할수도 있다.
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <p>
                         위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
                     </p>
+
+
+                    <div>
+                        2. OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데<sup id="footnote-3"><a href="#">[3]</a></sup>, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
+                    </div>
+                    <p>
+                        위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
+                    </p>
+                    <div>
+                        위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
+                    </div>
+                    <p>
+                        위 프로모션 영상처럼 아이폰으로 시스템을 재부팅하거나 로그아웃하고, 각종 응용 프로그램과 파일, 폴더, 자주 방문하는 웹사이트를 매우 쉽게 열 수 있게 돼 있습니다. 사용자 인터페이스도 기존에 나왔던 원격 제어 앱 중에서는 가장 깔끔하고 직관적인 편입니다. TV리모콘처럼 사전에 준비된 기능을 단지 '버튼'만 눌러 실행할 수 있으니 말이죠.
+                    </p>
+
                     <h3>OS X 요세미티 10.10.2 버전에서의 Lorem Ipsum</h3>
+
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
 
-                    <div class="context-image context-image-double">
+                    <div class="context-image context-double-image">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-6 context-image-double-first-item">
+                            <div class="col-xs-12 col-sm-6 context-double-image-first-item">
                                 <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
                                     <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
                                 </a>
@@ -315,8 +341,8 @@ include("header.php");
                                     </span>
                                 </div>
 
-                            </div><!--/.context-image-double-first-item-->
-                            <div class="col-xs-12 col-sm-6 context-image-double-second-item">
+                            </div><!--/.context-double-image-first-item-->
+                            <div class="col-xs-12 col-sm-6 context-double-image-second-item">
                                 <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
                                     <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
                                 </a>
@@ -325,15 +351,19 @@ include("header.php");
                                         세명의 주인공이 폼을 잡고 있는 모습
                                     </span>
                                 </div>
-                            </div><!--/.context-image-double-second-item-->
+                            </div><!--/.context-double-image-second-item-->
                         </div>
                     </div>
+
+                    <p>
+                        1. 기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다. 기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
+                    </p>
 
                     <p>
                         <iframe src="//player.vimeo.com/video/117934677?color=ea6a47&title=0&byline=0&portrait=0&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </p>
                     <p>
-                        기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
+                        기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다. 기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
                     </p>
 
                     <p>
@@ -341,15 +371,9 @@ include("header.php");
                     </p>
 
                     <p>
-                        기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
+                        기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다. 기본적인 기능세트에서 더 나아가 사용자 '맞춤기능'도 맥에서 추가하고 아이폰이나 아이패드를 통해 실행할 수 있습니다.
                     </p>
-                    <p>
-                        <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg">
 
-                    </p>
-                    <p>
-                        <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg">
-                    </p>
                     <p>
                         OS X 요세미티<sup id="footnote-2"><a href="#">[2]</a></sup> 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
@@ -366,9 +390,9 @@ include("header.php");
                         OS X 요세미티 공개 직후인 지난 6월부터 베일에 싸여 궁금증을 불러일으켰는데, 드디어 오늘 그 실체가 드러난 것입니다. 실제로 내려받아 사용해 보니 기본적으로 iOS에서 맥을 제어하는 일종의 '리모콘' 같은 앱<sup id="footnote-2"><a href="#">[2]</a></sup>이라는 것을 알 수 있습니다. 예전에 나와 히트를 치기도 했던 'Remote Mouse' 혹은 'Rowmote'와도 여러 부분에서 흡사한데, 마우스 커서나 키보드를 조종하는 게 아니라 알프레드가 제공하는 기본 명령세트와 사용자가 추가할 수 있는 여러 워크플로를 원격으로 실행할 수 있다는 데서 큰 차이가 있습니다.
                     </p>
 
-                    <div class="context-image context-image-full">
+                    <div class="context-image context-single-image">
                         <div class="row">
-                            <div class="col-md-12 context-image-full-item">
+                            <div class="col-md-12 context-single-image-item">
                                 <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="사진2 제목이 들어갑니다(옵션)">
                                     <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
                                 </a>
@@ -386,9 +410,9 @@ include("header.php");
                     </p>
 
 
-                    <div class="context-image context-image-full">
+                    <div class="context-image context-single-image">
                         <div class="row">
-                            <div class="col-md-12 context-image-full-item">
+                            <div class="col-md-12 context-single-image-item">
                                 <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="사진1 제목이 들어갑니다(옵션)">
                                     <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
                                 </a>
@@ -405,22 +429,6 @@ include("header.php");
                         더블 이미지의 모습입니다 2
                     </p>
 
-                    <div class="gallery" >
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6">
-                                <a class="thumbnail" href="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" data-rel="prettyPhoto[gallery1]" title="My Name Is Title 1">
-                                    <img src="http://www.itsartmag.com/features/itsart/wp-content/uploads/2013/10/gta5-concept16.jpg" alt="">
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-                            <div class="col-xs-12 col-sm-6">
-                                <a class="thumbnail" href="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" data-rel="prettyPhoto[gallery1]" title="My 2">
-                                    <img src="http://www.hondennieuws.be/wp-content/uploads/2013/09/gta-5-hond.jpg" alt="">
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-                        </div>
-
-                    </div>
-
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
                     </p>
@@ -428,157 +436,6 @@ include("header.php");
                     <p>
                         기상 후 주섬주섬 배개 옆에 있는 아이폰을 꺼내들어 원격으로 아이튠즈 음악을 재생하고, 뉴스와 주식 사이트를 띄우고, 전날 하다 만 워드프로세스 작업을 불러올 수 있다는 얘기같습니다. 책상 의자에 앉기 전에 말이죠. 또 iOS 기기를 맥 옆에 나란히 두고 말 그대로 '리모콘'처럼 사용하는 것도 또 하나의 활용 방법으로 소개하고 있구요.
                     </p>
-
-
-                    <div class="gallery bg-page flushed-left">
-
-                        <!-- <h4 class="gallery-title">Gallery</h4> -->
-
-                        <div class="row">
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 1" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 2" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/160x80" data-src-retina="http://placehold.it/320x160" width="160" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/160x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 3" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 4" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 5" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 6" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 7" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 8" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 9" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="http://placehold.it/460x460" title="Image 10" class="thumbnail" data-rel="prettyPhoto[gallery]">
-
-                                    <!-- to disable lazy loading, remove data-src and data-src-retina -->
-                                    <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/80x80" data-src-retina="http://placehold.it/160x160" width="80" height="80" alt="">
-
-                                    <!--fallback for no javascript browsers-->
-                                    <noscript>
-                                        <img src="http://placehold.it/80x80" alt="">
-                                    </noscript>
-
-                                </a>
-                            </div><!--/.col-xs-2.col-sm-2-->
-
-                        </div><!--/.row-->
-
-                    </div><!--/.gallery-->
 
                     <p>
                         글쎼요. 일단 듣기에는 좋아 보이는데, 이게 정말 킬러 기능이 될지 아니면 곁다리 기능이 될지는 조금 더 사용해 봐야 알 것 같습니다. 입맛에 꼭 맞는 워크플로를 만들려면 애플스크립트 작성 능력도 어느 정도 뒷받침돼야 한다는 전제조건이 있어 마냥 쉽지만은 않을 듯합니다.
@@ -694,7 +551,7 @@ include("header.php");
 
                     <!--
                     sample for adding full image
-                    <figure class="image image-full">
+                    <figure class="image single-image">
 
                         <img src="../assets/img/placeholder.gif" data-src="http://placehold.it/680x452" data-src-retina="http://placehold.it/1024x680" width="680" height="452" alt="">
 
@@ -1208,7 +1065,7 @@ include("header.php");
                     <!--<ul class="entries">-->
                     <!--    <li class="entry style-score-widget">-->
                     <!--        <div class="score-value">81</div>-->
-                    <!--        <div class="score-label entry-title"><a href="single-full.html">Design</a></div>-->
+                    <!--        <div class="score-label entry-title"><a href="single-single.html">Design</a></div>-->
                     <!--        <div class="progress">-->
                     <!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 81%;">-->
                     <!--            </div>-->
@@ -1216,7 +1073,7 @@ include("header.php");
                     <!--    </li>-->
                     <!--    <li class="entry style-score-widget">-->
                     <!--        <div class="score-value">80</div>-->
-                    <!--        <div class="score-label entry-title"><a href="single-full.html">Functionality</a></div>-->
+                    <!--        <div class="score-label entry-title"><a href="single-single.html">Functionality</a></div>-->
                     <!--        <div class="progress">-->
                     <!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">-->
                     <!--            </div>-->
@@ -1224,7 +1081,7 @@ include("header.php");
                     <!--    </li>-->
                     <!--    <li class="entry style-score-widget">-->
                     <!--        <div class="score-value">76</div>-->
-                    <!--        <div class="score-label entry-title"><a href="single-full.html">Performance</a></div>-->
+                    <!--        <div class="score-label entry-title"><a href="single-single.html">Performance</a></div>-->
                     <!--        <div class="progress">-->
                     <!--            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">-->
                     <!--            </div>-->
@@ -1235,6 +1092,7 @@ include("header.php");
                     <p>
                         크리에이티브 커먼즈 안내입미.
                     </p>
+
                 </div>
 
             </article>
@@ -1380,15 +1238,15 @@ include("header.php");
                 <h4 class="footnotes-title">주석</h4>
                 <ol class="footnote-list">
                     <li class="footnote">
-                        <span class="footnote-backlink"><b><a href="#footnote-1">^</a></b></span>
+                        <span class="footnote-backlink"><b><a href="#footnote-1" title="1번 주석에 대한 본문 내용이 들어갑니다">^</a></b></span>
                         Additional work by <a href="#">Rockstar NYC</a>, <a href="#">Rockstar San Diego</a>, Rockstar Leeds, Rockstar Toronto, Rockstar New England, Rockstar London and Rockstar Lincoln.
                     </li>
                     <li class="footnote">
-                        <span class="footnote-backlink"><b><a href="#footnote-2">^</a></b></span>
+                        <span class="footnote-backlink"><b><a href="#footnote-2" title="2번 주석에 대한 본문 내용이 들어갑니다">^</a></b></span>
                         단 기본으로 세팅(?)되어있는건 아니며 ADS 카메라로 전환하려면 PS4판 기준으로 L2을 누른 상태로 R스틱을 누르면 ADS카메라가 된다. 즉, 3인칭에서 조준 확대를 1인칭에서 ADS로 구현하는 것. PC판 GTA의 FPS 모드들은 이런게 존재하지 않았다. 무기줌이 존재하는 GTA 4도 일반적인 FPS카메라 MOD는 <a href="#">폴아웃 3</a>마냥 단순히 카메라만 조금 땡기는 정도였다.
                     </li>
                     <li class="footnote">
-                        <span class="footnote-backlink"><b><a href="#footnote-3">^</a></b></span>
+                        <span class="footnote-backlink"><b><a href="#footnote-3" title="3번 주석에 대한 본문 내용이 들어갑니다">^</a></b></span>
                         콘솔판 한정. 예외로 일본은 10월 10일에 <a href="#">콘솔판</a>이 발매되었다.
                     </li>
                 </ol>
